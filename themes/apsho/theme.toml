@@ -1,0 +1,13 @@
+
+name = "Federated Computer"
+license = "MIT"
+licenselink = "https://github.com/StaticMania/apsho-hugo/blob/master/LICENSE"
+description = "Replace Dropbox, Google Workplace, Zoom, Slack, Airtable, Mailchimp, 1Password, Netlify, Github, Calendy, and your VPN for the low price of $35 a month. You can have as many users of the system as you want. Not extra cost. Only pay for the storage you use."
+homepage = "https://federated.computer/"
+tags = ['clean', 'minimal', 'agency', 'corporate', 'creative agency', 'creative studio', 'portfolio', 'staticmania', 'responsive', 'blog', 'customizable', 'company', 'creative', 'agency template']
+features = ['bootstrap 4', 'responsive design', 'blog', 'responsive','landing-page', 'minimal', 'business', 'agency-template', 'hugo-theme', 'portfolio', 'company', 'creative', 'contact-form']
+min_version = "0.41.0"
+
+[author]
+  name = "Federated Computer"
+  homepage = "https://www.federated.computer"

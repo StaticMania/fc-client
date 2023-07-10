@@ -1,0 +1,15 @@
+---
+enable: true
+title: A fast, responsive, private replacement for Google Workplace and much more...
+description: Email, calendar, contacts, files, kanban deck for project management, bookmarks, internal/external chat, notes, tasks, dashboard, video conference, password management, website, source code control. Federated Computer includes all the software you need for your team in a nice, integrated, easy-to-use package.
+description2: You have the control to add more from the hundreds of additional offerings from the Nextcloud showcase. Nextcloud is trusted worldwide by 100s of thousands of successful companies and teams.
+buttonText: Buy now
+Title2nd: Professional Software Solving Real Problems
+description2nd: Federated Core integrates best-in-class open-source solutions so that you and your team can get things done with 100% security and privacy and without the headache of IT management.
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Jitsi for professional video conferencing.
+  - text: Matrix to interact with customers and partners.
+  - text: Vaultwarden for passwords, and much more!
+  - text: Federated Core "just works". Human support included.

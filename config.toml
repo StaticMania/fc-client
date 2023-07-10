@@ -1,0 +1,128 @@
+# MAIN base
+baseURL = "https://www.federated.computer"
+languageCode = "en-us"
+title = "Federated Computer | A fast, responsive replacement for Google Workplace and much more"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/#hero"
+    weight = 1
+[[menu.main]]
+    identifier = "product"
+    name = "Product"
+    url = "#"
+    weight = 2
+[[menu.main]]
+    identifier = "description"
+    name = "Federated Core"
+    url = "/description"
+    parent = "product"
+    weight = 1
+[[menu.main]]
+    identifier = "comparison"
+    name = "vs Competition"
+    url = "/comparison"
+    parent = "product"
+    weight = 2
+[[menu.main]]
+    identifier = "support"
+    name = "Support"
+    url = "/support"
+    weight = 3
+[[menu.main]]
+    identifier = "documentation"
+    name = "Docs"
+    url = "/documentation"
+    weight = 4
+[[menu.main]]
+    identifier = "community"
+    name = "Community"
+    url = "#"
+    weight = 5
+[[menu.main]]
+    identifier = "merchandise"
+    name = "Merchandise"
+    url = "/merchandise"
+    parent = "community"
+    weight = 1
+[[menu.main]]
+    identifier = "blog"
+    name = "Sovereign Reset"
+    url = "/blog"
+    parent = "community"
+    weight = 2
+[[menu.main]]
+    identifier = "projectswelove"
+    name = "Projects We Love"
+    url = "/projectswelove"
+    parent = "community"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Latest Blogs"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Team"
+    url = "/team"
+    weight = 4
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 5
+
+# Footer Sitemap1
+[[menu.sitemap1]]
+ name = "Developers"
+    url = "/developers"
+    weight = 1
+
+[[menu.sitemap1]]
+ name = "Careers"
+    url = "/careers"
+    weight = 2
+
+[[menu.sitemap1]]
+ name = "Resellers & Partners"
+    url = "/partners"
+    weight = 3
+
+
+# Footer Address
+[params.address]
+address = "RXR5+83"
+email = "info@federated.computer"
+phone = "+1-970-722-8715"
+
+# Footer Social
+[params.social]
+twitter = "https://twitter.com/federatedworld"
+github = "https://github.com/federatedcomputer"
+reddit = "https://www.reddit.com/r/federatedworld/"
+nostr = "https://iris.to/npub1hpnu5kl8lar2m6wz9s72zrmasr96rsc34r0y8e5sfdswueqeaf6svpj0x7"
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+# googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Support Digital Sovereignty"
+copyright1 = "All rights reserved"
+copyright2 = "Copyright ©  <a href=\"https://www.federated.computer\" target=\"_blank\">Federated Computer, Inc. </a> {year}. Hosted on a Federated Core."
+
+#contact
+email = "info@federated.computer"

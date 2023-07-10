@@ -1,0 +1,24 @@
+---
+enable: true
+title: What Customers are saying about Federated
+description: Our Customers are the best yardstick for judging our product and service. Federated Computer allows Customers to break free from corporate surveillance, high prices, and confusing integrations.
+comments:
+  - text: I started living a sovereign lifestyle with regards to food. Federated allowed me to successfully extend this goal to my digital life. It's amazing!
+    name: Tom Perkins
+    designation: Bitcoin Developer
+    image: images/customer/customer-2.png
+
+  - text:  Federated was easy to get set-up and, more importantly, was dead simple for my team to use. If we don't like it, Federated allows us to leave with our applications and data. Awesome!
+    name: Jona Raisha
+    designation: Consultant
+    image: images/customer/customer-1.png
+
+  - text: Best. Customer. Service. Seriously, I opened a ticket and they were so helpful and really seemed to care about my experience. Freedom never felt so good.
+    name: Xavier Montenegro
+    designation: Small Business Owner
+    image: images/customer/customer-3.png
+     
+  - text: Most of Federated is better than the stuff from the big companies. The video conferencing is amazing. And the VPN, mind-blowing. I can't say enough good things.
+    name: Kerri Reece
+    designation: Designer
+    image: images/customer/customer-4.png

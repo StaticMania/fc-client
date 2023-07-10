@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federated Computer | A fast, responsive replacement for Google Workplace and much more</title>
+    <link>https://www.federated.computer/</link>
+    <description>Recent content on Federated Computer | A fast, responsive replacement for Google Workplace and much more</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.federated.computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cancelling My History on Facebook: Why Control of Data Matters</title>
+      <link>https://www.federated.computer/blog/cancelling-my-history-on-facebook/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/cancelling-my-history-on-facebook/</guid>
+      <description>Facebook is Censoring My History! As I scroll through my Facebook feed most of what I see from my history of posts is now censored! What was once seen by friends and family, no one can see anymore. It’s maddening! Many of these posts were sharing information about what was occurring with Edward Snowden and how all of the big tech companies were spying on us, everywhere and even with the government!</description>
+    </item>
+    
+    <item>
+      <title>Introducing Federated Core</title>
+      <link>https://www.federated.computer/blog/introducing-federated-core/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/introducing-federated-core/</guid>
+      <description>We are very proud to introduce Federated &amp;ldquo;Core&amp;rdquo; to the wide world. We built Federated Core because we were tired of the surveillance happening with common productivity tools on the web, our collection of tools was costing a small fortune every month, and it was a pain to get everything to work together.
+Design Goals Federated Core was built to provide regular users who wanted privacy, great features and functions, the right price, basically all the benefits of today&amp;rsquo;s software-as-a-service offerings, in a self-hosted environment but without the aggravation and technical commitment self-hosting requires.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin, Time, the 4th Industrial Revolution &amp; SMBs</title>
+      <link>https://www.federated.computer/blog/bitcoin-time-fourth-revolution/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bitcoin-time-fourth-revolution/</guid>
+      <description>How Bitcoin Becomes Money in the Next Decade
+I have followed bitcoin for over a decade now and one of the best quotes I have seen is from Paul Buchheit, “Bitcoin may be the TCP/IP of money.” Just as TCP/IP facilitated the free flow of information and transformed how we communicate and access data globally, Bitcoin will have a similar impact on the transfer of value and the way we perceive and use money, MoIP, money over Internet protocol!</description>
+    </item>
+    
+    <item>
+      <title>Stop Being a Bitch</title>
+      <link>https://www.federated.computer/blog/stop-being-a-bitch/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/stop-being-a-bitch/</guid>
+      <description>The Condition Oh, this is different than my iProud! I can&amp;rsquo;t use that. I don&amp;rsquo;t understand how to use this&amp;hellip;Google does it for me. I don&amp;rsquo;t care if they are watching me! Everybody likes Furries. What do I have to hide?
+We&amp;rsquo;d change, but it&amp;rsquo;s going to mean we can&amp;rsquo;t benefit from being limp cucks for Microsoft. They will tell us how we should work on our team and what we can or cannot do with our data.</description>
+    </item>
+    
+    <item>
+      <title>Digital Sovereign Toolbox</title>
+      <link>https://www.federated.computer/blog/digital-sovereign-toolbox/</link>
+      <pubDate>Fri, 26 May 2023 20:18:07 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/digital-sovereign-toolbox/</guid>
+      <description>At Federated, we try to put our tools, our digital tools, where our mouth is. We don&amp;rsquo;t used centralized software for almost nothing to run our business preferring to use Federated Core and other self-hosted open-source projects.
+While we have systems running (virtual machines) for Windows and macOS testing, we run Linux on the desktop with most of us choosing to run Pop!_OS. The &amp;ldquo;tile windows&amp;rdquo; manager and integration with Federated services makes this a winner.</description>
+    </item>
+    
+    <item>
+      <title>Federated Founders and Our Joyent History</title>
+      <link>https://www.federated.computer/blog/federated-founders-and-our-joyent-history/</link>
+      <pubDate>Fri, 26 May 2023 20:18:07 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/federated-founders-and-our-joyent-history/</guid>
+      <description>The Origins of Federated Most of the founders of Federated Computer come from an earlier company that worked on decentralization called &amp;ldquo;Joyent&amp;rdquo;. You can read some of that story in a blog post I wrote when Joyent was sold to Samsung at this link.
+The picture above shows the first few engineers and designers who worked on Joyent, including the now tremendously successful Apple, Dallas Cowboys, and other topics blogger and podcast John Gruber in the red shirt.</description>
+    </item>
+    
+    <item>
+      <title> The Future of Cloud Computing</title>
+      <link>https://www.federated.computer/blog/the-future-of-cloud-computing/</link>
+      <pubDate>Thu, 25 May 2023 20:18:07 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/the-future-of-cloud-computing/</guid>
+      <description>Cloud 1.0 At Joyent, my previous startup, we literally invented &amp;ldquo;cloud computing&amp;rdquo;. We figured developers would appreciate the ability to purchase an &amp;ldquo;on-demand data center&amp;rdquo; in order to build web applications at scale without the enormous up-front infrastructure costs previously associated with datacenters.
+This all seems like old-hat today, but at the time, in the early 2000s, we were felt like pioneers.
+Centralization Sucks What happened with cloud infrastructure is a story, in the technology universe, as old as time.</description>
+    </item>
+    
+    <item>
+      <title>Dandelion Root Recipes</title>
+      <link>https://www.federated.computer/blog/dandelion-root-recipes/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dandelion-root-recipes/</guid>
+      <description>Are there ways to use the very common dandelion for good? This time of year in the northern hemisphere, yards can be filled with the yellow-flowered weed. Let&amp;rsquo;s use them for good.
+https://practicalselfreliance.com/dandelion-root-recipes/</description>
+    </item>
+    
+    <item>
+      <title>In Praise of Thunderbird</title>
+      <link>https://www.federated.computer/blog/in-praise-of-thunderbird/</link>
+      <pubDate>Tue, 02 May 2023 20:18:07 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/in-praise-of-thunderbird/</guid>
+      <description>Email is Important In today&amp;rsquo;s digital world, email remains a cornerstone of communication for individuals and businesses alike. But with concerns about privacy, security, and dependence on big tech, many are seeking alternatives that align with their values. Enter Thunderbird, the open-source email client that has been revolutionizing the way we interact with our inboxes. In this article, we will explore Thunderbird&amp;rsquo;s top features, shed light on its remarkable development journey, and emphasize the importance of using open-source software for a more secure and customizable email experience.</description>
+    </item>
+    
+    <item>
+      <title>We Built Federated Using Federated</title>
+      <link>https://www.federated.computer/blog/we-built-federated-using-federated/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/we-built-federated-using-federated/</guid>
+      <description>Using All The Software Components to Build Federated Core One of our best decisions, and we also had a number of bad decisions (but that&amp;rsquo;s for another blog post), was to &amp;ldquo;trial&amp;rdquo; test different open-source software packages to see if we could fruitfully use them as a distributed, decentralized team building a stack of software, documentation, marketing materials for Federated Core.
+We used Nextcloud as a traffic control. Nextcloud Files worked for sharing files and commenting on content.</description>
+    </item>
+    
+    <item>
+      <title>Dark Side of Centralization</title>
+      <link>https://www.federated.computer/blog/dark-side-of-centralization/</link>
+      <pubDate>Mon, 01 May 2023 12:57:56 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dark-side-of-centralization/</guid>
+      <description>Much like the incredible expense of all the software-as-a-service offerings today, when taken in aggragate, in the 1960s and 1970s, computing was a &amp;ldquo;big company&amp;rdquo; sport because of expense. Large computer companies sold mainframes and smaller mainframes (called &amp;ldquo;minis&amp;rdquo;) and were very content with the status quo and profits.
+When the idea of personal computers came along, no establish computer company had any desire to play along. In fact, when Steve Wozniak created the Apple I personal computer, he offered it to his employer Hewlett-Packard five times but the big-computing company had no interest.</description>
+    </item>
+    
+    <item>
+      <title>Power of Free and Open-Source</title>
+      <link>https://www.federated.computer/blog/power-of-free-and-open-source/</link>
+      <pubDate>Thu, 27 Apr 2023 12:59:58 +0600</pubDate>
+      
+      <guid>https://www.federated.computer/blog/power-of-free-and-open-source/</guid>
+      <description>Choosing Free and Open Source Maybe Federated Core is the first time you and your team or business are explicitly choosing free and open-source software over some other solution that is costly and proprietary. In that case, we thought we would lay out why you&amp;rsquo;ve made the right choice.
+Is it Really &amp;ldquo;Free&amp;rdquo;? But let&amp;rsquo;s get the elephant in the room out of the way first. Federated Computer charges $39/month, so how is anything &amp;ldquo;free&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Are Google 2FA Secrets Unencrypted?</title>
+      <link>https://www.federated.computer/blog/google-2fa-sync-service/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/google-2fa-sync-service/</guid>
+      <description>Looking at how 2FA secrets are synched The synching appears to happen without any encryption. Google sees the secrets. If there is a breach&amp;hellip;
+Defcon Social @mysk</description>
+    </item>
+    
+    <item>
+      <title>FBI Watching Internet</title>
+      <link>https://www.federated.computer/blog/fbi-watching-internet/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/fbi-watching-internet/</guid>
+      <description>Is the FBI abusing access to FISA databases of private communications? The FBI can read out private communications without a warrant or judicial oversight.
+https://www.eff.org/deeplinks/2023/04/internal-documents-show-how-little-fbi-did-correct-misuse-section-702-databases</description>
+    </item>
+    
+    <item>
+      <title>Nostr Daily Stats</title>
+      <link>https://www.federated.computer/blog/nostr-daily-stats/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/nostr-daily-stats/</guid>
+      <description>How is the decentralized network being used? See how the &amp;ldquo;next thing&amp;rdquo; is growing/plateauing/stagnating&amp;hellip;
+https://stats.nostr.band/
+This must be a sample since the network is truly decentralized&amp;hellip;Right?</description>
+    </item>
+    
+    <item>
+      <title>Digital ID from Hell</title>
+      <link>https://www.federated.computer/blog/who-wef-un-digital-id/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/who-wef-un-digital-id/</guid>
+      <description>This ID allows our masters at the WHO, UN, and WEF to track us everywhere The World Health Organization, United Nations, and World Economic Forum have a bureaucrats wet dream for tracking plebians wherever they go.
+https://twitter.com/ANTlWEF/status/1648676505562787840?s=20</description>
+    </item>
+    
+    <item>
+      <title>No Health Benefits for Moderate Drinking</title>
+      <link>https://www.federated.computer/blog/dont-drink-to-health/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dont-drink-to-health/</guid>
+      <description>Can moderate drinking ever be healthy? It doesn&amp;rsquo;t look like it is&amp;hellip;
+https://www.japantimes.co.jp/news/2023/04/05/world/science-health-world/alcohol-health-studies/</description>
+    </item>
+    
+    <item>
+      <title>Saying Goodbye to Github</title>
+      <link>https://www.federated.computer/blog/saying-goodbye-to-github/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/saying-goodbye-to-github/</guid>
+      <description>But does Github care? No.
+https://ersei.net/en/blog/bye-bye-github
+It&amp;rsquo;s too bad he moves from a behemouth centralizer to an up-and-coming centralizer. Will these people never learn?</description>
+    </item>
+    
+    <item>
+      <title>Seven Books for the Self Sovereign Individual</title>
+      <link>https://www.federated.computer/blog/seven-books-for-the-self-sovereign-individual/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/seven-books-for-the-self-sovereign-individual/</guid>
+      <description>A great list Lots of wonderful ideas in these books&amp;hellip;
+https://twitter.com/heyalmoo/status/1642570681194885120</description>
+    </item>
+    
+    <item>
+      <title>Gmail is Breaking Email</title>
+      <link>https://www.federated.computer/blog/gmail-is-breaking-email/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/gmail-is-breaking-email/</guid>
+      <description>You can&amp;rsquo;t send email to anyone on/from Gmail The Centralizer makes the rules for email, not the protocol.
+http://www.igregious.com/2023/03/gmail-is-breaking-email.html
+What can be done? Stop communicating to our fiat friends using Gmail?</description>
+    </item>
+    
+    <item>
+      <title>Bill to Ban TikTok Terrifying</title>
+      <link>https://www.federated.computer/blog/bill-to-ban-tiktok/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bill-to-ban-tiktok/</guid>
+      <description>It&amp;rsquo;s really about global surveillance There&amp;rsquo;s nothing to like about this bill.
+https://twitter.com/greg_price11/status/1640722365809147905
+BTW: Twitter, Facebook, Instagram, Google suck away your metadata and give it to a government, too.</description>
+    </item>
+    
+    <item>
+      <title>TikTok Ban is Patriot Act 2.0</title>
+      <link>https://www.federated.computer/blog/bill-to-ban-tiktok-patriot-act-2/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bill-to-ban-tiktok-patriot-act-2/</guid>
+      <description>Get informed. This is a global surveillance gambit.
+https://www.youtube.com/watch?v=FWQGA_n5Z4M
+It has very little to do with &amp;ldquo;China&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Front Matter CMS</title>
+      <link>https://www.federated.computer/blog/front-matter-cms/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/front-matter-cms/</guid>
+      <description>A CMS that works with Federated Core Federated Core has a workflow allowing customers to create static-file websites, publish them to their private Gitea repository, and auto-publish to their private Caddy webserver. Front Matter supports this workflow beautifully&amp;hellip;
+https://frontmatter.codes/
+It runs inside of Visual Studio Code among other tools allowing you to preview and create great content using Federated Core.</description>
+    </item>
+    
+    <item>
+      <title>KYC Not Me</title>
+      <link>https://www.federated.computer/blog/kyc-not-me/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/kyc-not-me/</guid>
+      <description>KYC Scores KYC stands for &amp;ldquo;know your customer&amp;rdquo; which is another way of saying &amp;ldquo;surveillance&amp;rdquo; by the service and/or government interests. The KYCnot dot me website lists lots of websites, many for Bitcoin, and their relative scores for KYC.
+https://kycnot.me/
+There are also listings for VPNs, domains and hosting, phone numbers, and other various services and tools.</description>
+    </item>
+    
+    <item>
+      <title>FedNow Payment System Launching</title>
+      <link>https://www.federated.computer/blog/fednow-payment-system-launching/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/fednow-payment-system-launching/</guid>
+      <description>Federal Reserve Payments System Moves to the Launchpad Why does the federal government, or any government, need a &amp;ldquo;payment system&amp;rdquo; unless the currency itself is property of same?
+https://www.cnbc.com/2023/03/15/long-awaited-fed-digital-payment-system-to-launch-in-july.html</description>
+    </item>
+    
+    <item>
+      <title>Proton Mail Review 2023</title>
+      <link>https://www.federated.computer/blog/proton-mail-review/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/proton-mail-review/</guid>
+      <description>The Good and the Bad How&amp;rsquo;s Proton Mail hanging when it comes to being &amp;ldquo;the most secure email&amp;rdquo; on the planet?
+https://restoreprivacy.com/email/reviews/protonmail/
+If the service is centralized, it is not secure from governments. End-to-end encryption sounds neat, but once you interact with an email counterparty not using encryption, the game is up. Requires third-party software to work with email clients/standards.</description>
+    </item>
+    
+    <item>
+      <title>Google Drive File Limits</title>
+      <link>https://www.federated.computer/blog/google-drive-file-limits/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/google-drive-file-limits/</guid>
+      <description>You can&amp;rsquo;t really use Google Drive any way you want Oh, nevermind. Google reversed themselves after the backlash. The idea was to put a hard limit on the number of files allowed on the service.
+https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/</description>
+    </item>
+    
+    <item>
+      <title>Central Bank Digital Currency Amouse Bouche</title>
+      <link>https://www.federated.computer/blog/central-bank-digital-currency-video/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/central-bank-digital-currency-video/</guid>
+      <description>Fat Man Tells Truth Hey! Let&amp;rsquo;s digitize all cash to something controlled by the guv&amp;rsquo;mint so that they can see who is doing what.
+https://twitter.com/ZLOK/status/1639898907529314304?s=20
+A person has to be insane, no, an idiot, to want to get on board with this idea.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Build to Steal Everything</title>
+      <link>https://www.federated.computer/blog/lets-build-a-chrome-extension-that-steals-everything/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lets-build-a-chrome-extension-that-steals-everything/</guid>
+      <description>Building a Chrome extension to steal everything The wonders of Chrome extensions on all the data they can pilfer&amp;hellip;
+https://mattfrisbie.substack.com/p/spy-chrome-extension
+&amp;hellip;would this be possible on the &amp;ldquo;safe&amp;rdquo; browsers like Brave and Vivaldi? Firefox?</description>
+    </item>
+    
+    <item>
+      <title>Tools to Combat Surveillance</title>
+      <link>https://www.federated.computer/blog/tools-to-combat-surveillance/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tools-to-combat-surveillance/</guid>
+      <description>You need some tools to protect yourself What are you doing to protect yourself from pervasive surveillance today?
+https://www.youtube.com/watch?v=s-ny-I8EVH8</description>
+    </item>
+    
+    <item>
+      <title>Building an ARM64 Home Server</title>
+      <link>https://www.federated.computer/blog/building-arm64-server-hard-way/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/building-arm64-server-hard-way/</guid>
+      <description>This is the hard way Honestly, we don&amp;rsquo;t recommend this for anyone. But it does give a sense of the power and flexibility available to those wanting to self-host at home. My own self-hosted home server is similar.
+https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html
+By the way, there are so many great servers for sale on eBay with 16G ram, Xeon processors, etc. that work very well as a home server without the fragility and for roughly the same initial price.</description>
+    </item>
+    
+    <item>
+      <title>Self Hosting in 2023</title>
+      <link>https://www.federated.computer/blog/self-hosting-in-2023/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/self-hosting-in-2023/</guid>
+      <description>How to Self Host Your Webpage The long self-hosting journey starts with a first step&amp;hellip;
+https://grifel.dev/decentralization/
+&amp;hellip;then you discover, to be honest, that&amp;rsquo;s really how the internet works. A server, a web page. In between are your optimizations.</description>
+    </item>
+    
+    <item>
+      <title>Wading into Nostr</title>
+      <link>https://www.federated.computer/blog/wading-into-nostr/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/wading-into-nostr/</guid>
+      <description>Some intial descriptions of experience with Nostr One person&amp;rsquo;s explorations of Nostr (&amp;ldquo;notes and other stuff using relays&amp;rdquo;)
+https://stacker.news/items/135975
+We will be writing in-depth about how Federated uses this technlogy.</description>
+    </item>
+    
+    <item>
+      <title>Delete Yourself From The Internet</title>
+      <link>https://www.federated.computer/blog/how-to-delete-yourself-internet/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/how-to-delete-yourself-internet/</guid>
+      <description>Some advice for deleting your data trail from the internet The get us when we create data, and when we want to delete it&amp;hellip;
+https://www.cnbc.com/2023/02/10/how-to-delete-yourself-from-the-internet.html</description>
+    </item>
+    
+    <item>
+      <title>Lastpass Breach Gets Worse</title>
+      <link>https://www.federated.computer/blog/lastpass-breach-gets-worse/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lastpass-breach-gets-worse/</guid>
+      <description>The Lastpass breach just gets worse and worse A wonderful post-mortem of the recent Lastpass data breach.
+https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/
+Solution? Get off centralized password managers. Not your keys, not your passwords.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Privacy Podcasts</title>
+      <link>https://www.federated.computer/blog/top-ten-privacy-podcasts/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/top-ten-privacy-podcasts/</guid>
+      <description>A list of the top ten privacy podcasts Listen to these podcasts for some great insights on privacy.
+https://privacyplan.net/top-10-privacy-podcasts/
+We all need ways to learn. Listen up!</description>
+    </item>
+    
+    <item>
+      <title>Is Apple Checking Images? Rebuttal.</title>
+      <link>https://www.federated.computer/blog/apple-checking-images-rebuttal/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-checking-images-rebuttal/</guid>
+      <description>Is Apple checking images we view in the Finder? Little Snitch claims browsing an image sends a message from &amp;ldquo;mediaanalysisd&amp;rdquo; to an Apple server.
+https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/
+But it doesn&amp;rsquo;t appear this is actually happening. But let&amp;rsquo;s keep investigating.</description>
+    </item>
+    
+    <item>
+      <title>Apple Checking Images? Evidence</title>
+      <link>https://www.federated.computer/blog/apple-checking-images-evidence/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-checking-images-evidence/</guid>
+      <description>Is Apple checking images we view in the Finder? The evidence for the case that Apple is checking images browsed in the Finder and sending metadata to a remote server.
+https://sneak.berlin/20230115/macos-scans-your-local-files-now/
+We have another post with a rebuttal.</description>
+    </item>
+    
+    <item>
+      <title>Old Phone No Good</title>
+      <link>https://www.federated.computer/blog/old-phone-no-good/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/old-phone-no-good/</guid>
+      <description>Your old phone is no longer supported We get it, at some point, your Nokia from 2012 just isn&amp;rsquo;t going to work anymore&amp;hellip;
+https://www.youtube.com/watch?v=UxaCUugPoRY
+But should the error be to lock users out of data?</description>
+    </item>
+    
+    <item>
+      <title>What If Web Loses?</title>
+      <link>https://www.federated.computer/blog/what-happens-web-loses/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/what-happens-web-loses/</guid>
+      <description>What if everything becomes an app on somebody else&amp;rsquo;s platform? What happens when the only whay we can work or manipulate data is through &amp;ldquo;proprietary&amp;rdquo; apps, not the web?
+https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/
+Lock in, much? Lock in = surveillance, boys and girls.</description>
+    </item>
+    
+    <item>
+      <title>Everybody is Under Surveillance</title>
+      <link>https://www.federated.computer/blog/marshall-mcluhan-surveillance-riff/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/marshall-mcluhan-surveillance-riff/</guid>
+      <description>Media prophet Marshall McLuhan discusses CIA and FBI surveillance His conclusion we are all, are will be, under surveillance.
+https://twitter.com/bfcarlson/status/1609988081825751041?t=fY1f4HYgh45QSYXP4irXWw&amp;amp;s=19
+&amp;ldquo;One of the main occupations of mankind.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Privacy is OK</title>
+      <link>https://www.federated.computer/blog/privacy-is-ok/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/privacy-is-ok/</guid>
+      <description>Tim Bray wants to defend Signal This is really about whether &amp;ldquo;bad guys&amp;rdquo; can use Signal. Tim, rightly, says &amp;ldquo;who cares&amp;rdquo;. We all need privacy.
+https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK
+But then Tim admits Signal can and does hand over conversations to those with subpoena powers:
+ in the course of the law-enforcement investigation of the January 6th insurrection, police got access to the traitors’ Signal conversations
+ Hmmm. OK. We don&amp;rsquo;t want to wade into &amp;ldquo;traitors&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Give Away Bitcoin on a Hotel Door Key</title>
+      <link>https://www.federated.computer/blog/create-your-own-bitcoin-giveaway-card/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/create-your-own-bitcoin-giveaway-card/</guid>
+      <description>Let&amp;rsquo;s just say your traditional bank would frown on such behavior Bitcoin is also a technology teeming with new ideas, new innovations.
+https://twitter.com/3d_nout/status/1608245114052247552
+I&amp;rsquo;m sure your bank wouldn&amp;rsquo;t allow you to do this with your fiat account. I bet the &amp;ldquo;bad guys&amp;rdquo; could use this! :laughing:</description>
+    </item>
+    
+    <item>
+      <title>LastPass Security Incident</title>
+      <link>https://www.federated.computer/blog/lastpass-security-incident/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lastpass-security-incident/</guid>
+      <description>LastPass Gets Hacked LastPass, where so many store their sensitive passwords, has a security incident.
+https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/
+An &amp;ldquo;unauthorized party&amp;rdquo; got access to the third-party storage where LastPass stores backups. When you&amp;rsquo;re dealing with cloud services, there is tremendous &amp;ldquo;counterparty&amp;rdquo; risk, as they would say in the fiat financial markets. If you&amp;rsquo;re using a cloud service, that service can swear all day that they are secure&amp;hellip;but security is a combination of all the links, including the weak ones.</description>
+    </item>
+    
+    <item>
+      <title>Social Credit Score to Access Internet</title>
+      <link>https://www.federated.computer/blog/social-credit-score-to-access-internet/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/social-credit-score-to-access-internet/</guid>
+      <description>Not enacted, but recommended under Australian goverment plan This idea was not enacted. But it was thoughtfully considered and proposed by the sitting government of Australia.
+https://twitter.com/BernieSpofforth/status/1602042530845057027
+If &amp;ldquo;the internet&amp;rdquo; is the fief of government, why can&amp;rsquo;t they shut it off for a reason like a bad social credit score? Let&amp;rsquo;s take away the fief. And defeat the idea of social credit scores.</description>
+    </item>
+    
+    <item>
+      <title>2022 Year of Desktop Linux</title>
+      <link>https://www.federated.computer/blog/2022-year-of-desktop-linux/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/2022-year-of-desktop-linux/</guid>
+      <description>Thanks to some Stack Overflow surveys, desktop Linux has arrived for developers According to a developer survey, Linux holds a 9% lead over macOS.
+Year of the Linux Desktop
+It&amp;rsquo;s getting better and better meaning there is less and less an excuse to support the centralizer operating systems.</description>
+    </item>
+    
+    <item>
+      <title>Time and Attention as Currency</title>
+      <link>https://www.federated.computer/blog/time-and-attention-as-currency/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/time-and-attention-as-currency/</guid>
+      <description>How the attention economy is ruining us We need to return back to pseudonimity and anonymity as the basis for the marketplace EXCEPT when an actual trade of value for value is agreed by all parties.
+https://twitter.com/dergigi/status/1604785991608172544?s=20&amp;amp;t=ZOA98-7Et7TPpZYI8AHACg
+This is fundamentally impossible without &amp;ldquo;hard money&amp;rdquo; and its side-kick &amp;ldquo;hard digital decentralization&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Gmail Encrypted</title>
+      <link>https://www.federated.computer/blog/gmail-encrypted/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/gmail-encrypted/</guid>
+      <description>End-to-end encryption for Gmail on the web Metadata still not encrypted.
+https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/
+Band-aid on a gaping chest wound. Zzzzz.</description>
+    </item>
+    
+    <item>
+      <title>Google Maps Monopoly</title>
+      <link>https://www.federated.computer/blog/breaking-google-maps-monopoly/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/breaking-google-maps-monopoly/</guid>
+      <description>Linux, Amazon, Meta, and Microsoft want to break the Google Maps monopoly There&amp;rsquo;s some bad centralizers in this alliance. And Google Maps is a really nice product! But we need it broken up.
+https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/
+P.S. There is no &amp;ldquo;Linux&amp;rdquo; in the way they use the term. :blush:</description>
+    </item>
+    
+    <item>
+      <title>Symptoms of Fiat Poisoning</title>
+      <link>https://www.federated.computer/blog/symptoms-of-fiat-poisoning/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/symptoms-of-fiat-poisoning/</guid>
+      <description>Signs you&amp;rsquo;ve been fiat poisoned Most folks think of bitcoin as the anecdote of fiat.
+https://stacker.news/items/108177
+We think of living a complete self-sovereign lifestyle as the comprehensive anecdote to fiat/arbitrary culture and the poisoning that comes with it.</description>
+    </item>
+    
+    <item>
+      <title>Drowning in AI Garbage</title>
+      <link>https://www.federated.computer/blog/drowning-in-ai-garbage/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/drowning-in-ai-garbage/</guid>
+      <description>Drowning in AI Generated Garbage It&amp;rsquo;s a contrarian opinion to opine that AI is anything but garbage (i.e. something written by a 5th grader doing a report). Look, we use ChatGPT to generate the summaries for these link list posts, because we are lazy, and we want to spend more time PC gaming. We&amp;rsquo;re old school that way. But most of the summaries require a significant amount of re-writing&amp;hellip;so how lazy are we after all?</description>
+    </item>
+    
+    <item>
+      <title>Rediscovery of Money</title>
+      <link>https://www.federated.computer/blog/rediscovery-of-money/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/rediscovery-of-money/</guid>
+      <description>Bitcoin is the Rediscovery of Money In this article, the idea of &amp;ldquo;money&amp;rdquo; is defined as the &amp;ldquo;removal of counterparty risk&amp;rdquo;. If we think about that, it is a pretty good definition in the context of some &amp;ldquo;value&amp;rdquo; to be exchanged between parties with the understanding of the &amp;ldquo;value&amp;rdquo; in relation to the parties themselves. That is the risk, removed.
+https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/
+The risk associated with bitcoin today, in as much as we can talk about risk on a time horizon, is one of volatility.</description>
+    </item>
+    
+    <item>
+      <title>The Casino Chip Society</title>
+      <link>https://www.federated.computer/blog/the-casino-chip-society/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/the-casino-chip-society/</guid>
+      <description>One-Type-Of-Money-Illusion This article helps us understand how cash and value works today in our fiat money society. Huh?
+https://brettscott.substack.com/p/casino-chip-cashless-society
+The same principles of data-sovereignty apply to money-sovereignty.</description>
+    </item>
+    
+    <item>
+      <title>Telegram Discloses Names After Ruling</title>
+      <link>https://www.federated.computer/blog/delhi-rules-telegram-discloses/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/delhi-rules-telegram-discloses/</guid>
+      <description>You think your Telegram Data is Secure? If the thing you&amp;rsquo;re using is centralized, it is so much easier for the &amp;ldquo;authorities&amp;rdquo; to compel disclosure of data. Case in point is Telegram who was recently forced to disclose names, phone numbers, and IP address accused of sharing material thought to infringe copyright.
+https://www.livelaw.in/news-updates/after-court-order-telegram-discloses-phone-numbers-ip-addresses-of-users-accused-of-sharing-infringing-material-215311
+The court order was issued by the Delhi High Court in India and required Telegram to disclose the information to the plaintiffs who had filed a copyright infringement case against the users.</description>
+    </item>
+    
+    <item>
+      <title>Checklist for Digital Privacy and Security</title>
+      <link>https://www.federated.computer/blog/checklist-digital-privacy-security/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/checklist-digital-privacy-security/</guid>
+      <description>hWork through them as you get the time&amp;hellip;eadline Some of the recommendations are centralizers&amp;hellip;but we like the effort and attention to the subject!
+https://twitter.com/_k3tan/status/1597327334004371462?t=_G4DaTq7_p30VkmonGcgSg&amp;amp;s=19</description>
+    </item>
+    
+    <item>
+      <title>Everything About Passphrases</title>
+      <link>https://www.federated.computer/blog/everything-you-need-passphrases/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/everything-you-need-passphrases/</guid>
+      <description>Some best practice for passphrases, private keys, and saving them all in a digital wallet Not your keys, not your _______________. But how do we protect our keys, our passphrases? What are some best practices to consider?
+https://blog.coinkite.com/everything-you-need-to-know-about-passphrases/
+If you&amp;rsquo;re not incorporating many of these practices into your digital self-sovereign life, then how self-sovereign can you really be?</description>
+    </item>
+    
+    <item>
+      <title>21 Rules of Bitcoin Maxi</title>
+      <link>https://www.federated.computer/blog/21-rules-of-bitcoin-maxi/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/21-rules-of-bitcoin-maxi/</guid>
+      <description>What can self-sovereign individuals learn from Bitcoin maxis? We love Bitcoin maxis because they give the self-sovereign individual
+21 Rules of a Bitcoin Maxi
+Let&amp;rsquo;s see how these some of these rules can be applied to the self-sovereign individual even if, horror, they have no interest in Bitcoin.
+ Not your keys. This is the principal of decentralization. We don&amp;rsquo;t use centralized services where are data is not our own. Stack sats.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Tools for the Information Age</title>
+      <link>https://www.federated.computer/blog/privacy-tools-for-information-age/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/privacy-tools-for-information-age/</guid>
+      <description>Some resources for increasing and protecting your privacy online. A good list of tools and methods you can use to increase and protect your privacy online during this time of all-time-low privacy and self-sovreignty.
+https://secondl1ght.site/blog/privacy-tools
+Many of these tools deserves further exploration and explanation. Some are centralized solutions (and so not our preference).</description>
+    </item>
+    
+    <item>
+      <title>Sneaky Move, Google</title>
+      <link>https://www.federated.computer/blog/google-being-sneaky-maps-permissions/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/google-being-sneaky-maps-permissions/</guid>
+      <description>Allowing a change to maps permissions, opens up your world to Google Maps was and is a ground-breaking service offering from Google.
+https://garrit.xyz/posts/2022-11-24-smart-move-google
+Now they&amp;rsquo;re bamboozling us to accept permission allowing them to geotrack us across all of their services. Hey kids, just don&amp;rsquo;t use Google. :kissing_closed_eyes:</description>
+    </item>
+    
+    <item>
+      <title>All Eyes Are On Us.</title>
+      <link>https://www.federated.computer/blog/all-eyes-are-on-us/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/all-eyes-are-on-us/</guid>
+      <description>5 Eyes, 9 Eyes, 14 Eyes: Protect Yourself From Global Surveillance The fact of our lives today is constant global surveillance. By governments. By corporations.
+https://vpnoverview.com/privacy/anonymous-browsing/5-9-14-eyes/
+You may be shocked to the extent your government spies on you. In a &amp;ldquo;democracy&amp;rdquo;. For your &amp;ldquo;safety&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Counting Unique Visitors Ethically</title>
+      <link>https://www.federated.computer/blog/unique-visitors-without-cookies/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/unique-visitors-without-cookies/</guid>
+      <description>How to count visitors without using cookies A self-sovereign lifestyle means doing to others what you would want doen to yourself, including how you track your website visitors.
+https://notes.normally.com/cookieless-unique-visitor-counts/
+This article shows you how to build website analytics without storing information that can reveal a visitor&amp;rsquo;s identity. If you don&amp;rsquo;t want it done to you, don&amp;rsquo;t do it to others. Simple. And the solution is brilliant.</description>
+    </item>
+    
+    <item>
+      <title>France Says &#34;Non&#34; to Office 365 and Google Workplace</title>
+      <link>https://www.federated.computer/blog/france-says-non/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/france-says-non/</guid>
+      <description>Office 365 and Workplace Shouldn&amp;rsquo;t be used in classrooms While the free versions of Office 365 and Workplace may be attractive, they vacuum up so much data on students they constitute a form of theft.
+https://www.theregister.com/2022/11/22/france_no_windows_google/
+Free services come with the &amp;ldquo;bargain&amp;rdquo; that the provider gets all your information. What a deal! The French say &amp;ldquo;no&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Lightning Publisher for WordPress</title>
+      <link>https://www.federated.computer/blog/bitcoin-plugin-wordpress/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bitcoin-plugin-wordpress/</guid>
+      <description>Review of a plugin for WordPress allowing receipt of Bitcoin payments A description of a plugin for Wordpress enabling Bitcoin payments using the Lightning network.
+https://wordpress.org/plugins/bitcoin-lightning-publisher/
+Able to use a number of different Lightning backends.</description>
+    </item>
+    
+    <item>
+      <title>Back to Open Standards</title>
+      <link>https://www.federated.computer/blog/swinging-back-to-open-standards/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/swinging-back-to-open-standards/</guid>
+      <description>Using open standards is the only way to defeat the centralizers A survey of how the more things change, the more they swing back to standards&amp;hellip;
+https://puri.sm/posts/swinging-back-to-open-standards/
+PS. really dislike the font (mini-t) of this website. :stuck_out_tongue_closed_eyes:</description>
+    </item>
+    
+    <item>
+      <title>Indian ISPs Give Government Full Access</title>
+      <link>https://www.federated.computer/blog/indian-isps-give-givernment-full-access/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/indian-isps-give-givernment-full-access/</guid>
+      <description>They know when you&amp;rsquo;ve been naughty, they know when you&amp;rsquo;re awake&amp;hellip; Well, at least, I suppose, they&amp;rsquo;re being honest about it.
+https://entrackr.com/2022/11/exclusive-indian-isps-we-already-give-govt-full-access-to-web-traffic/
+Or, more likely, just brazen. &amp;ldquo;What are you going to do about it?&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird Supernova Preview</title>
+      <link>https://www.federated.computer/blog/thunderbird-supernova-preview/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/thunderbird-supernova-preview/</guid>
+      <description>New calendar design Thunderbird is getting better and better. Among many of the FOSS reasons to use Thunderbird, it&amp;rsquo;s possible to set up Thunrderbird so that your settings move from machine to machine. Nice! But the integrated calendar was always sub-par. Looks like a future update named &amp;ldquo;Supernova&amp;rdquo; will fix that.
+https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/
+Check out the Federated Computer documentation for other types re: Thunderbird.</description>
+    </item>
+    
+    <item>
+      <title>Apple Tracks You</title>
+      <link>https://www.federated.computer/blog/apple-tracks-you-in-ios/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-tracks-you-in-ios/</guid>
+      <description>Even when its own privacy setting say &amp;lsquo;no&amp;rsquo; tracking&amp;hellip; Independent tests suggests Apple is tracking you on iOS even when you&amp;rsquo;ve disabled sharing &amp;ldquo;Device Analytics&amp;rdquo; altogether.
+Apple Tracks You
+It&amp;rsquo;s Apple. They know best.</description>
+    </item>
+    
+    <item>
+      <title>Building a Self-sovereign Lifestyle</title>
+      <link>https://www.federated.computer/blog/building-a-self-sovereign-lifestyle/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/building-a-self-sovereign-lifestyle/</guid>
+      <description>The permaculture mentality homsteaders have is congruent with Bitcoin low-time-preference mentality What is true, even if you&amp;rsquo;re not going to homestead, is you need to adopt a homesteading mentality&amp;hellip;
+https://bitcoinmagazine.com/culture/building-homesteader-lifestyle-with-bitcoin
+The mentality of a homesteader is one that examines all areas of life to figure out how one can move from centralization to decentralization.</description>
+    </item>
+    
+    <item>
+      <title>Tyranny Looms Via Digital IDs and Currencies</title>
+      <link>https://www.federated.computer/blog/tyranny-looms-digital-ids-cbdc/</link>
+      <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tyranny-looms-digital-ids-cbdc/</guid>
+      <description>Digital IDs and Currencies are means of control Does anyone besides the ruling classes really think digitizing IDs and currencies are anything but a means to control people?
+https://www.lifesitenews.com/blogs/tyranny-looms-as-digital-ids-and-currencies-roll-out-around-the-world/</description>
+    </item>
+    
+    <item>
+      <title>Apple Tracks You in the App Store</title>
+      <link>https://www.federated.computer/blog/apple-tracking-you-in-app-store/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-tracking-you-in-app-store/</guid>
+      <description>As you browse and tap, Apple is watching &amp;ldquo;Ahem, we are building a better customer experience&amp;hellip;&amp;rdquo;
+https://twitter.com/mysk_co/status/1588308341780262912
+&amp;hellip;for us, Apple.</description>
+    </item>
+    
+    <item>
+      <title>Self Hosting Guide</title>
+      <link>https://www.federated.computer/blog/self-hosting-guide/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/self-hosting-guide/</guid>
+      <description>A guide for getting started with self hosting A nice guide for all the various services, hardware, clouds, etc available for the person wanting to self-host.
+https://github.com/mikeroyal/Self-Hosting-Guide
+Self-hosting offers freedom and responsibility. There are a number of projects out there that help with the process.</description>
+    </item>
+    
+    <item>
+      <title>Privacy dot com -- Yeah Right</title>
+      <link>https://www.federated.computer/blog/privacy-com-scam/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/privacy-com-scam/</guid>
+      <description>Why privacy dot com is anything but&amp;hellip; If you&amp;rsquo;re using privacy.com to achieve some &amp;ldquo;privacy&amp;rdquo;, you need to read this&amp;hellip;
+https://ersei.net/en/blog/privacy-dot-com-yeah-right
+Basically, the thesis of privacy.com is we want to take your (surveilled) credit card transactions and surveil them even more. Suckers!</description>
+    </item>
+    
+    <item>
+      <title>Invisv</title>
+      <link>https://www.federated.computer/blog/invisv/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/invisv/</guid>
+      <description>Let&amp;rsquo;s reinvent the wheel Congrats to Invisv for understanding the problem.
+https://invisv.com/
+We have questions, however. Is Invisv centralized? Are all these privacy break-throughs inter-operable with any other open standards, protocols?</description>
+    </item>
+    
+    <item>
+      <title>Katzenpost</title>
+      <link>https://www.federated.computer/blog/katzenpost/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/katzenpost/</guid>
+      <description>A service to resist on-line surveillance From the post, why end-to-end encryption is not enough: &amp;ldquo;End-to-end encryption has become more commonplace with major online messaging and communication tools, but encoding what you say to your friends online does not mean that the service provider cannot see who you contacted, when, from where. This metadata might be even more important than the content of an online conversation.&amp;rdquo;
+https://nlnet.nl/project/katzenpost/
+You have to think about the metadata in the same way we think about how services like Facebook develop &amp;ldquo;graphs&amp;rdquo; of us for the purposes of advertising and scores.</description>
+    </item>
+    
+    <item>
+      <title>Basecamp is Leaving the Cloud</title>
+      <link>https://www.federated.computer/blog/basecamp-is-leaving-the-cloud/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/basecamp-is-leaving-the-cloud/</guid>
+      <description>An explanation Basecamp&amp;rsquo;s David Heinemeier Hansson explains the departure from the cloud.
+https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0
+We don&amp;rsquo;t agree with all the conclusions. Nevertheless, bon voyage! (Oh, side note, notice he mentions &amp;ldquo;analyze and store&amp;rdquo; with re: the Hey email service. Centralizer.)</description>
+    </item>
+    
+    <item>
+      <title>iOS 16 Leaks Connections</title>
+      <link>https://www.federated.computer/blog/ios-16-leaks-connections/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/ios-16-leaks-connections/</guid>
+      <description>But Apple is Muh Secure! Researches discovered iOS 16 communicates with Apple services outide an active VPN tunnel. Huh?
+https://twitter.com/mysk_co/status/1579997801047822336
+They used ProtonVPN and Wireshark for the testing. What&amp;rsquo;s the solution? Different mobile OS.</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s Ad Business Booming</title>
+      <link>https://www.federated.computer/blog/apple-ad-business/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-ad-business/</guid>
+      <description>How do we square a digital, tracking ad business with privacy? It&amp;rsquo;s hard to see how a company running a $5 billion, and growing, digital (ie. tracking) ad business can be real about protecting privacy.
+https://adguard.com/en/blog/apple-tracking-ads-business.html
+Tim Cook famously said: &amp;ldquo;You are not our product. You are our customer. You are a jewel, and we care about the user experience.&amp;rdquo; (2018) But does this line up with Apple&amp;rsquo;s recent hard charge into the digital advertising business?</description>
+    </item>
+    
+    <item>
+      <title>Whatsapp and Signal Messages Intercepted by Government</title>
+      <link>https://www.federated.computer/blog/whatsapp-messages-intercepted-by-government/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/whatsapp-messages-intercepted-by-government/</guid>
+      <description>Australian government will be able to intercept WhatsApp and Signal messages If you thought your encypted WhatsApp and Signal messages were secure from surveillance, think again&amp;hellip;
+https://www.smh.com.au/politics/federal/national-anti-corruption-commission-will-be-able-to-intercept-whatsapp-messages-a-g-20221002-p5bmis.html
+There&amp;rsquo;s a simple principle. If it is centralized, it is not secure. It&amp;rsquo;s the fiat of services. Another note: it&amp;rsquo;s always &amp;ldquo;anti corruption&amp;rdquo; or &amp;ldquo;anti waste&amp;rdquo;. Both are just gas-lighting for &amp;ldquo;anti freedom&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Stop Google Collecting Your Data</title>
+      <link>https://www.federated.computer/blog/how-to-stop-google-collecting/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/how-to-stop-google-collecting/</guid>
+      <description>Here are the steps you need to take now And overview of how Google collects data and censors&amp;hellip;
+https://www.lifesitenews.com/opinion/heres-how-to-stop-google-from-collecting-huge-amounts-of-your-data/
+While this is a great resource for what Google is doing, the recommendations for how to defeat the beast are, in our opinion, simplistic and, on top, don&amp;rsquo;t lead to true digital self-sovereignty.</description>
+    </item>
+    
+    <item>
+      <title>Get Off Gmail</title>
+      <link>https://www.federated.computer/blog/get-off-gmail/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/get-off-gmail/</guid>
+      <description>Get off the big tech email providers Here&amp;rsquo;s a quick mental exercise: if you can&amp;rsquo;t imagine life without Google, Facebook, Apple or the other big centralized services, then you&amp;rsquo;re digital freedom is toast.
+https://www.lifesitenews.com/blogs/the-simple-reason-why-you-should-stop-using-gmail/
+Don&amp;rsquo;t make convenience the master of your freedom.</description>
+    </item>
+    
+    <item>
+      <title>Cryptography Is Not Enough</title>
+      <link>https://www.federated.computer/blog/cryptography-is-not-enough/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/cryptography-is-not-enough/</guid>
+      <description>Going Beyond Cryptogrpahy This wide-ranging discussion proposes a lifestyle.
+https://dergigi.com/2022/09/10/cryptography-is-not-enough/
+According to the article published by Dergigi, cryptography alone is not sufficient to provide complete security for digital systems and data. While cryptography is an essential tool for protecting data against unauthorized access and tampering, it cannot address all of the security challenges that digital systems face.
+The article notes that cryptography is vulnerable to various attacks, including brute force attacks, side-channel attacks, and quantum attacks, which could potentially compromise the security of encrypted data.</description>
+    </item>
+    
+    <item>
+      <title>Meta Injecting Code to Track</title>
+      <link>https://www.federated.computer/blog/meta-injecting-code-into-websites/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/meta-injecting-code-into-websites/</guid>
+      <description>Meta and Instagram Rewrite Websites to Track Us This happens when you click on websites in Facebook and Instagram. You&amp;rsquo;re taken to the link in an in-app browser. Then the hilarity begins.
+https://www.theguardian.com/technology/2022/aug/11/meta-injecting-code-into-websites-visited-by-its-users-to-track-them-research-says
+Solution. Don&amp;rsquo;t use Facebook, Instagram, all the other Meta shit. Addicted? OK, then stop complaining. You&amp;rsquo;re hooked up to the Zuckerborg and your actions harvested for profit.</description>
+    </item>
+    
+    <item>
+      <title>US Military Mass Monitors Internet Browsing, Email, Everything</title>
+      <link>https://www.federated.computer/blog/us-military-surveillance-on-internet/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/us-military-surveillance-on-internet/</guid>
+      <description>There&amp;rsquo;s nothing else to capture except the smell of electricity. The “Augury” platform includes highly sensitive network data that Team Cymru, a private company, is selling to the military. “It’s everything. There’s nothing else to capture except the smell of electricity,” one cybersecurity expert said.
+https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data
+They violate our privacy for our safety. Is that a good bargain?</description>
+    </item>
+    
+    <item>
+      <title>Fighting Spam</title>
+      <link>https://www.federated.computer/blog/fighting-spam/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/fighting-spam/</guid>
+      <description>Some practical tips for fighting spam Spam is everywhere. Here are some thoughts about how to fight it.
+https://darthcoin.substack.com/p/avoid-being-spammed
+You&amp;rsquo;ll want to use an email client like Thunderbird or Mutt to follow the &amp;ldquo;no images&amp;rdquo; rule.</description>
+    </item>
+    
+    <item>
+      <title>Choosing the Right BTC/LN Wallet</title>
+      <link>https://www.federated.computer/blog/choose-btc-wallet/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/choose-btc-wallet/</guid>
+      <description>Some advice for choosing the right Bitcoin and LIghtning Wallet Just like a password manager, choosing the right wallet for bitcoin can be stressful.
+https://stacker.news/items/70725
+As they say: &amp;ldquo;Think like a bank, not just be a bank.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>iPhone = Privacy?</title>
+      <link>https://www.federated.computer/blog/iphone-equals-privacy-question/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/iphone-equals-privacy-question/</guid>
+      <description>Does using an iPhone mean you have the best privacy solution? Most believe the iPhone is a bastion of privacy. Tim Cook said so&amp;hellip;
+https://kerkour.com/iphone-privacy
+Apple has marketed their devices as saving the world from a big brother dystopia. But, like so much gas-lighting these days, it is the savior playing the role of big brother.</description>
+    </item>
+    
+    <item>
+      <title>Replying to Carlos F. &#34;Thrown in the Towel&#34;</title>
+      <link>https://www.federated.computer/blog/reply-to-thrown-in-the-towel/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/reply-to-thrown-in-the-towel/</guid>
+      <description>Self-hosted Email is the Hardest, but also the Easiest Here&amp;rsquo;s one response to the post by Carlos F. throwing in the towel for self-hosted email.
+https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/
+Hosting your own email is hard, but not impossible. The technical aspects are easy. Getting your email to someone with an outlook.com address are practical impossible. But maybe you should just pick up the phone and tell that person Microsoft (for example) doesn&amp;rsquo;t want them to get email from anyone except those who Microsoft says are &amp;ldquo;good&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>How to be a Profitable Lightning Node</title>
+      <link>https://www.federated.computer/blog/how-to-be-a-profitable-lnd-node/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/how-to-be-a-profitable-lnd-node/</guid>
+      <description>Some tips for how to run a Lightning Node profitably&amp;hellip; We think Lightning, in time, will be more for information distribution, and less about Bitcoin payments settlement.
+https://stacker.news/items/66368
+In the meantime, as you begin your Lightning journey&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Thrown in the Towel Self-hosting Email</title>
+      <link>https://www.federated.computer/blog/thrown-in-the-towel-email-hosting/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/thrown-in-the-towel-email-hosting/</guid>
+      <description>The challenges faced by those seeking to self-host email Is it true self-hosting email is a lost cause? Carlos F. seems to think so.
+https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
+The purpose of this post isn&amp;rsquo;t to be an apologia for self-hosting email. Rather, it is to highlight the oligarchic behaviors that exist on certain protocols (smtp, etc) and to say that we encourage this behavior when we give up and move to more niche protocols (eg nostr?</description>
+    </item>
+    
+    <item>
+      <title>Apple Refuses to Cooperate</title>
+      <link>https://www.federated.computer/blog/apple-refuses-to-cooperate/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-refuses-to-cooperate/</guid>
+      <description>The US Government Seeks Information About App Store Behaviors Apple&amp;rsquo;s behavior with re: its App Store is notorious&amp;hellip;
+http://www.fosspatents.com/2022/09/apple-refuses-to-cooperate-with-us.html
+&amp;ldquo;Apple taxes, tyrannizes, and &amp;ldquo;sherlocks&amp;rdquo; app developers. App developers are victims of Apple&amp;rsquo;s conduct, and ACT | The App Association&amp;ndash;which is actually just an Apple Association&amp;ndash;unethically claims to represent the interests of small developers.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>How Lightning Address Works</title>
+      <link>https://www.federated.computer/blog/how-a-lightning-address-works/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/how-a-lightning-address-works/</guid>
+      <description>Lightning invoice basics A nice, brief explainer on how lightning addresses work.
+https://stacker.news/items/65872
+Lightning is the off-chain bitcoin, etc payments clearing technology.</description>
+    </item>
+    
+    <item>
+      <title>Data Broker Rats You Out!</title>
+      <link>https://www.federated.computer/blog/data-broker-helps-police-see-everywhere-youve-been/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/data-broker-helps-police-see-everywhere-youve-been/</guid>
+      <description>Your data is given to police so that they can see everywhere you&amp;rsquo;ve been with the click of a mouse. Hey, you&amp;rsquo;re in the privacy of your home, what could go wrong?
+https://www.eff.org/de/press/releases/data-broker-helps-police-see-everywhere-youve-been-click-mouse-eff-investigation
+Answer: everything. Start taking back your privacy!</description>
+    </item>
+    
+    <item>
+      <title>Rights, Laws, and Google</title>
+      <link>https://www.federated.computer/blog/rights-laws-google/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/rights-laws-google/</guid>
+      <description>What happens when everything everywhere is scanned A very cautionary tale.
+https://stratechery.com/2022/rights-laws-and-google/
+In fact, we privacy advocates don&amp;rsquo;t have to answer: &amp;ldquo;a question worth posing to anyone unilaterally opposed to Google’s approach is how big that number would have to be to have made it worthwhile&amp;rdquo;. One case of child sex exploitation is horrible. However, the issue at root here is really a queasiness with &amp;ldquo;free will&amp;rdquo;. The desire is to use &amp;ldquo;tech&amp;rdquo; to keep of clear of the bad outcomes from the exercise of human &amp;ldquo;free will&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Embracing the Kill Switch</title>
+      <link>https://www.federated.computer/blog/embracing-the-kill-switch/</link>
+      <pubDate>Sun, 28 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/embracing-the-kill-switch/</guid>
+      <description>Governments Embrace Internet Shutdowns as a Form of Control Well, one way to deal with it, if you can&amp;rsquo;t control it, is to kill it.
+https://www.theguardian.com/technology/2022/aug/29/flicking-the-kill-switch-governments-embrace-internet-shutdowns-as-a-form-of-control
+This will always be an option so long as coercive government (a redundancy) has control over the network itself. The solution is, over time, to build free networks unburdened by government control. Examples are (ham) radio, LORA networks, and other forms of free and uncersorable communication.</description>
+    </item>
+    
+    <item>
+      <title>Employers Are Doing &#39;Shocking Things&#39; to Monitor Your Productivity</title>
+      <link>https://www.federated.computer/blog/employers-surveill-employees/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/employers-surveill-employees/</guid>
+      <description>Treating employees like robots is the &amp;lsquo;new normal&amp;rsquo; If I can track your every movement while you &amp;ldquo;work for me&amp;rdquo;, that sounds more like slavery, than an exchange of goods.
+https://nypost.com/2022/08/26/its-everywhere-workplace-surveillance-methods-now-common/
+Not to mention it is the precursor to replacing humans with robots for which tracking is a must. Be self-sovereign. Don&amp;rsquo;t work for these sorts of assholes. And if you must, figure out how you are going to escape.</description>
+    </item>
+    
+    <item>
+      <title>TMobile Starlink Link</title>
+      <link>https://www.federated.computer/blog/tmobile-starlink-link/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tmobile-starlink-link/</guid>
+      <description>Starlink will offer global connection to TMobile phones Starlink will provide a means for Tmobile handsets to communicate (SMS, Voice) anywhere on the globe Starlink provides coverage using 3G-equivalent bandwidth.
+https://archive.ph/LGnFS
+As if we weren&amp;rsquo;t tracked enough. :weary:</description>
+    </item>
+    
+    <item>
+      <title>Email Doesn&#39;t Suck. It&#39;s Email Clients</title>
+      <link>https://www.federated.computer/blog/email-clients-are-bad/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/email-clients-are-bad/</guid>
+      <description>Email clients need improving. Some thoughts. A shift to web-base email has meant a degradation in the quality of &amp;ldquo;fat&amp;rdquo; email clients.
+https://www.wired.com/story/email-clients-are-bad-so-use-vivaldi-mail/
+The author uses Mutt and Vivaldi mail. We suggest contributing time/talent/treasure to Thunderbird mail. Mutt is great, too.</description>
+    </item>
+    
+    <item>
+      <title>Oracle&#39;s Worldwide Surveillance Machine</title>
+      <link>https://www.federated.computer/blog/oracle-worldwide-surveillance-machine/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/oracle-worldwide-surveillance-machine/</guid>
+      <description>The class action lawsuit against a behemouth&amp;rsquo;s worldwide surveillance machine With dossiers on five billion people (!) which likely means they have one on you and me, what can&amp;rsquo;t Oracle do?
+https://www.iccl.ie/news/class-action-against-oracle/
+&amp;ldquo;&amp;hellip;and a detailed account of online activity&amp;hellip;&amp;rdquo;
+You have no right to see this information and refute/fix it, if needed.</description>
+    </item>
+    
+    <item>
+      <title>We Kill People Based on Metadata</title>
+      <link>https://www.federated.computer/blog/we-kill-people-based-on-metadata/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/we-kill-people-based-on-metadata/</guid>
+      <description>The NSA and CIA use metadata to determine who should die General Michael Hayden, in a debate with ACLU national legal director David Cole, admitted metadata can be enough to determine if some person is a threat to the US sufficient enough to warrant death.
+https://darknetlive.com/post/we-kill-people-based-on-metadata-and-other-metadata-things-3b316d3c
+So&amp;hellip; Take action. Get off the metadata supply wagon. &amp;ldquo;But I&amp;rsquo;m not a threat to the US security establishment.&amp;rdquo; No, likely not. But you&amp;rsquo;re of interest to Mark Zuckerberg and his establishment.</description>
+    </item>
+    
+    <item>
+      <title>Googerteller</title>
+      <link>https://www.federated.computer/blog/googerteller/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/googerteller/</guid>
+      <description>Make music when Google spies on you This little utility provides auditory feedback whenever your browsing/internet activities feed back into the Google.
+https://github.com/berthubert/googerteller
+This demo is pretty hilarious/scary.</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Seed Backup Device Design</title>
+      <link>https://www.federated.computer/blog/bitcoin-seed-phrase-backup-devices/</link>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bitcoin-seed-phrase-backup-devices/</guid>
+      <description>Lessons learned stress testing dozens of seed phrase backup devices The seed phrase is like the password opening up the value of a Bitcoin address. If you lose it, you lose the Bitcoin. So, it is imperative, when using self-custodied Bitcoin address, that you have 100% reliable access to your seed phrase.
+https://blog.lopp.net/a-treatise-on-bitcoin-seed-backup-device-design/</description>
+    </item>
+    
+    <item>
+      <title>E-Mail Done My Way</title>
+      <link>https://www.federated.computer/blog/email-done-my-way/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/email-done-my-way/</guid>
+      <description>The journey to getting email self-hosting done right One man&amp;rsquo;s (he&amp;rsquo;s the Redhat evangelist for EMEA) way of running self-hosted email.
+https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/
+As you&amp;rsquo;ll see, email is a protocol, and an attitude.</description>
+    </item>
+    
+    <item>
+      <title>Huge Scale of US Gov Cell Location Data</title>
+      <link>https://www.federated.computer/blog/huge-scale-of-us-gov-cell-location-data/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/huge-scale-of-us-gov-cell-location-data/</guid>
+      <description>New documents reveal the US government is tracking cell phone location The ACLU unearthed documents showing the US Department of Homeland Security is using mobile location data to track people&amp;rsquo;s movements.
+https://techcrunch.com/2022/07/18/homeland-security-cell-phone-tracking/
+The tracking is taking place on a much larger scale that previously known.</description>
+    </item>
+    
+    <item>
+      <title>Awesome Privacy</title>
+      <link>https://www.federated.computer/blog/awesome-privacy/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/awesome-privacy/</guid>
+      <description>A list of privacy and security-focused apps, software, and providers From the list: &amp;ldquo;Large data-hungry corporations dominate the digital world but with little, or no respect for your privacy. Migrating to open-source applications with a strong emphasis on security will help stop corporations, governments, and hackers from logging, storing or selling your personal data.&amp;rdquo;
+https://github.com/Lissy93/awesome-privacy
+It would be even better if this was not hosted on Github. C&amp;rsquo;est la vie!</description>
+    </item>
+    
+    <item>
+      <title>Personal Security Checklist</title>
+      <link>https://www.federated.computer/blog/personal-security-checklist/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/personal-security-checklist/</guid>
+      <description>Besides carrying a gun&amp;hellip; &amp;ldquo;A curated checklist of tips to protect your digital security and privacy.&amp;rdquo;
+https://github.com/Lissy93/personal-security-checklist
+It&amp;rsquo;s a complete lifestyle, frankly.</description>
+    </item>
+    
+    <item>
+      <title>Awesome FOSS Alternatives</title>
+      <link>https://www.federated.computer/blog/awesome-oss-alternatives/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/awesome-oss-alternatives/</guid>
+      <description>FOSS solutions to try Here&amp;rsquo;s another compiled list of FOSS solutions to investigate rather than giving money to centralizer man.
+https://github.com/RunaCapital/awesome-oss-alternatives
+Which ones look promising to you?</description>
+    </item>
+    
+    <item>
+      <title>Layer Three?</title>
+      <link>https://www.federated.computer/blog/what-is-layer-three/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/what-is-layer-three/</guid>
+      <description>What is layer three? A discussion re: the intersection bitcoin/lightning with the internet&amp;hellip;
+https://twitter.com/PompPodcast/status/1547633870702424066?t=ysL2s0wxSyyAqZ-ZQJPTtQ&amp;amp;s=19p
+This is probably what &amp;ldquo;web 3&amp;rdquo; should/will be.</description>
+    </item>
+    
+    <item>
+      <title>Redecentralize</title>
+      <link>https://www.federated.computer/blog/redecentralize/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/redecentralize/</guid>
+      <description>Inttroducing Redecentralize At Federated we support any organization fighting against digital monopolies, surveillance capitalism, and a lack of self-sovreignty.
+https://redecentralize.org/
+Redecentralize is an organization seeking &amp;ldquo;a world of open platforms and protocols with real choices of applications and services for people. We care about privacy, transparency and autonomy. Our organizations and tools should fundamentally be accountable and resilient.&amp;rdquo; Amen.</description>
+    </item>
+    
+    <item>
+      <title>Tracing Cameras</title>
+      <link>https://www.federated.computer/blog/tracing-cameras/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tracing-cameras/</guid>
+      <description>Using the slight imperfections of the sensor An interesting technique to trace individual digital cameras based on sensor information.
+https://petapixel.com/2022/07/01/police-can-trace-cameras-thanks-to-sensor-imperfection-fingerprints/
+How long until this is used in the wild to track everyone?</description>
+    </item>
+    
+    <item>
+      <title>Build a Gun</title>
+      <link>https://www.federated.computer/blog/build-a-gun/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/build-a-gun/</guid>
+      <description>Build a 22 rifle to keep the varmits at bay&amp;hellip; Sure, you can buy a rifle, but why not learn about how things work by assembling the parts and building a custom rifle for pest control?
+https://www.youtube.com/watch?v=7D5twkg8HE0&amp;amp;t=304</description>
+    </item>
+    
+    <item>
+      <title>Stop Apple Tracking You</title>
+      <link>https://www.federated.computer/blog/stop-apple-tracking-you/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/stop-apple-tracking-you/</guid>
+      <description>Ways to keep Apple from tracking you on iOS 14.5 and later Apple stopped other apps from tracking you starting with iOS 14.5&amp;hellip;so that they could have all that delicious tracking goodness to appleself.
+https://www.youtube.com/watch?v=7y88gAAIN5g
+What&amp;rsquo;s the worry? It&amp;rsquo;s only metadata&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Value For Value</title>
+      <link>https://www.federated.computer/blog/value-for-value/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/value-for-value/</guid>
+      <description>Explanation of Value for Value Many &amp;ldquo;media&amp;rdquo; or &amp;ldquo;social&amp;rdquo; businesses today rely on anadvertising model to pay the bills. However, the model itself begins to distort the message over time because the economic means (advertisers) will dictate what is acceptable content and even, in time, acceptable customers. The solution is value for value.
+https://value4value.info/
+Going further, value for value can be understood as a way of life, as the site says &amp;ldquo;a mindset of abundance&amp;rdquo; where an ecosystem develops of free exchange of &amp;ldquo;goods&amp;rdquo; understood as &amp;ldquo;time, talent, and treasure&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Dangers of Digital Identity</title>
+      <link>https://www.federated.computer/blog/dangers-of-digital-identity/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dangers-of-digital-identity/</guid>
+      <description>What happens when your &amp;lsquo;identity&amp;rsquo; is simply 1s and 0s? A digital identity isn&amp;rsquo;t something from you. It is a dossier created by the centralizers to better understand, for themselves, the capabilities in the world allowed to you.
+https://www.boniface-institute.com/the-dangers-of-digital-identity/
+Identity is tied to access in the digital world.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Wallet Comparison</title>
+      <link>https://www.federated.computer/blog/lightning-wallet-comparison/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lightning-wallet-comparison/</guid>
+      <description>A look at all the options for Lightning wallets Inevitably this blog post will get more and more out-of-date as time passes&amp;hellip;
+https://darthcoin.substack.com/p/lightning-wallets-comparison
+But it provides a nice overview of the different approaches to wallets for holding Bitcoin on the LIghtning network.</description>
+    </item>
+    
+    <item>
+      <title>Apple Looking Like 1990s Microsoft</title>
+      <link>https://www.federated.computer/blog/apple-webapps-browsers/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-webapps-browsers/</guid>
+      <description>Does it come down to the $20 billion in cash paid annually by Google? Apple really doesn&amp;rsquo;t want competition on iOS for web browsers&amp;hellip;
+https://twitter.com/openwebadvocacy/status/1617802614149894144
+Even Google allows competition on Android! Think of all the tracking offered up by iOS users to Google&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Awesome Self-hosted</title>
+      <link>https://www.federated.computer/blog/awesome-self-hosted/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/awesome-self-hosted/</guid>
+      <description>Github listing of self-hosted software This is a pretty comprehensive list of software you can self-host across a very wide variety of categories.
+https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md
+While we think Federated is a pretty good curation of the &amp;ldquo;best&amp;rdquo; software for self-hosting out there, this list reminds us there is so, so much more.</description>
+    </item>
+    
+    <item>
+      <title>Is iPhone Usage Data Anonymous?</title>
+      <link>https://www.federated.computer/blog/iphone-usage-data-anonymous/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/iphone-usage-data-anonymous/</guid>
+      <description>Your iPhone&amp;rsquo;s Analytics Data Includes an ID Number How anonymous is iPhone usage data after all?
+https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619
+According to the article published by Gizmodo, Apple&amp;rsquo;s iPhone was found to be collecting data on users&#39; personal browsing habits through a feature called &amp;ldquo;DSID Analytics,&amp;rdquo; which is enabled by default on all devices running iOS 15.
+The report notes that DSID Analytics collects data on users&#39; app usage, search history, and web browsing behavior, which is then sent to Apple&amp;rsquo;s servers for analysis.</description>
+    </item>
+    
+    <item>
+      <title>Tools to Secure Your Mac</title>
+      <link>https://www.federated.computer/blog/tools-to-protect-macos/</link>
+      <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tools-to-protect-macos/</guid>
+      <description>A list of tools for protecting and securing your macOS device A nice list of tools you can use to protect and secure your macOS machine.
+https://objective-see.org/tools.html
+This is expert level stuff, but could be helpful for you and protecting those your support.</description>
+    </item>
+    
+    <item>
+      <title>Who Controls the Internet?</title>
+      <link>https://www.federated.computer/blog/who-controls-the-internet/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/who-controls-the-internet/</guid>
+      <description>From a speech given at NANOG 83 From the guy who created PowerDNS comes an assessment of the ownership and control of the internet today.
+https://berthub.eu/articles/posts/who-controls-the-internet/
+Guess what? It&amp;rsquo;s not so good&amp;hellip;unless we re-double our efforts to take back control.</description>
+    </item>
+    
+    <item>
+      <title>Robosats</title>
+      <link>https://www.federated.computer/blog/robosats/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/robosats/</guid>
+      <description>A simple and private way to exchange Bitcoin for fiat currencies Another great way to buy bitcoin without KYC intrusions.
+https://learn.robosats.com/</description>
+    </item>
+    
+    <item>
+      <title>Anonymous eSIM</title>
+      <link>https://www.federated.computer/blog/silent-link-anonymous-esim/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/silent-link-anonymous-esim/</guid>
+      <description>Really private When you really want to disappear&amp;hellip;
+https://silent.link/
+However, the better solution may be to just put down the phone, go outside, and talk a long walk in the sun.</description>
+    </item>
+    
+    <item>
+      <title>Ads in Apple App Store</title>
+      <link>https://www.federated.computer/blog/apple-advertising-app-store/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-advertising-app-store/</guid>
+      <description>What happens when the white knight gets down and dirty with the central trackers? Apple has been slowly but surely expanding the reach of ads across their platforms for the past several years.
+https://basicappleguy.com/basicappleblog/you-might-also-like
+What to do? Try Linux. There are plenty of great distributions. Oh, the app you want/need isn&amp;rsquo;t there? Spin up a Windows VM on your Linux distro for the times you need to bend over. You can even run macOS in a VM.</description>
+    </item>
+    
+    <item>
+      <title>An Allegory</title>
+      <link>https://www.federated.computer/blog/free-services-an-allegory/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/free-services-an-allegory/</guid>
+      <description>What happens when we are beholden to free services? Hey, you just wanted to see what the free service could do for you. Despite knowing the dangers. But it is so&amp;hellip;
+https://twitter.com/PardesSeleh/status/1534251250744705024
+Please don&amp;rsquo;t go&amp;hellip;!</description>
+    </item>
+    
+    <item>
+      <title>Apple Advertising</title>
+      <link>https://www.federated.computer/blog/apple-is-building-demand-side-platform/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-is-building-demand-side-platform/</guid>
+      <description>The fruit is building a demand-side platform Has there been a successful digtial advertising platform that doesn&amp;rsquo;t track users?
+https://www.insiderintelligence.com/content/apple-will-emerge-advertising-player-watch-2023
+Hey baby, don&amp;rsquo;t worry. This is Apple. :kissing:</description>
+    </item>
+    
+    <item>
+      <title>Apple turned off a private communication tool in China just before major protests broke out.</title>
+      <link>https://www.federated.computer/blog/apple-turned-off-airdrop/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-turned-off-airdrop/</guid>
+      <description>What does it mean when a vendor tells you how to use tools on your device? https://reclaimthenet.org/apple-air-drop-china
+Apple made a change to how AirDrop works in mainland China restricting the way Apple customer could communicate with each other.
+According to the article published by Reclaim The Net on August 10, 2021, Apple has come under scrutiny for allegedly allowing Chinese users to receive unsolicited content through its AirDrop feature. The report states that Chinese users have been receiving unsolicited pornographic images and spam through AirDrop from strangers who are using anonymous usernames.</description>
+    </item>
+    
+    <item>
+      <title>Apple TV Ad Product</title>
+      <link>https://www.federated.computer/blog/apple-tv-ad-product/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/apple-tv-ad-product/</guid>
+      <description>Quietly pushing an ad product with media agencies Where will we go for privacy when Apple abandons us to the verdant fields of advertising revenue?
+https://digiday.com/media/apple-is-quietly-pushing-a-tv-ad-product-with-media-agencies/
+To a self-sovereign, distributed, federated future.</description>
+    </item>
+    
+    <item>
+      <title>Bisq</title>
+      <link>https://www.federated.computer/blog/bisq/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/bisq/</guid>
+      <description>As in biscuit? Or just no-KYC bitcoin? One of the best ways to buy bitcoin with no KYC.
+https://bisq.network/
+You&amp;rsquo;ll also feel like a trader walking through a market in the town square. You get to set the deal.</description>
+    </item>
+    
+    <item>
+      <title>Breaches for Everyone!</title>
+      <link>https://www.federated.computer/blog/big-batch-of-breaches/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/big-batch-of-breaches/</guid>
+      <description>Looks like lots of centralized services relied on another central service&amp;hellip; &amp;hellip;and now the whole mass of them are breached.
+https://twitter.com/tayvano_/status/1611131230074073088?s=20&amp;amp;t=NR4Z4aJlKaNg_rHuQVYn7A
+CircleCI is the central culprit. We, the users of these centralized system have no clue whats going on in the entirely opaque background. No clue.</description>
+    </item>
+    
+    <item>
+      <title>BTCMap.org</title>
+      <link>https://www.federated.computer/blog/btcmap-org/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/btcmap-org/</guid>
+      <description>Where to spend your bitcoin This is the chicken-and-egg challenge for bitcoin. Money for spending (versus money for store of value).
+https://btcmap.org/map
+The solution is to continue to build communities of common-interest that can build small economies where bitcoin is taken back and forth. Maybe the solution is we all need to be willing and able to take bitcoin?</description>
+    </item>
+    
+    <item>
+      <title>Build Your Own Seedsigner</title>
+      <link>https://www.federated.computer/blog/build-your-own-seedsigner/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/build-your-own-seedsigner/</guid>
+      <description>You need a seed signer to keep your Bitcoin safe With this technique, no one will know your seed phrase except the people you tell.
+https://seedsigner.com/
+No trust.</description>
+    </item>
+    
+    <item>
+      <title>Centralization is Cool</title>
+      <link>https://www.federated.computer/blog/moxie-marlinspike-on-centralization/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/moxie-marlinspike-on-centralization/</guid>
+      <description>Moxie Marlinspike on Decentralization The (former) CEO of Signal thinks centralization is the way to go&amp;hellip;
+https://マリウス.com/moxie-marlinspike-on-decentralization/
+What a surprise. The key argument is that it is too difficult to decentralize. And that decentralization leads to stagnation because we all have to agree on protocols and therefore it is tough to change them. But there are multiple flaws in this way of thinking, and the post lays them out well.</description>
+    </item>
+    
+    <item>
+      <title>Cops Want Mass Surveillance App Secret</title>
+      <link>https://www.federated.computer/blog/mass-surveillance-app-secret/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/mass-surveillance-app-secret/</guid>
+      <description>The App &amp;lsquo;Fog Reveal&amp;rsquo; is Almost Invisible Another tale of our local law enforcement tracking phones around the neighborhood.
+https://arstechnica.com/tech-policy/2022/09/cops-wanted-to-keep-mass-surveillance-app-secret-privacy-advocates-refused/</description>
+    </item>
+    
+    <item>
+      <title>Corporate Coalition Wants Government Digital ID</title>
+      <link>https://www.federated.computer/blog/corporate-coalition-wants-digital-id/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/corporate-coalition-wants-digital-id/</guid>
+      <description>The &amp;lsquo;Better Identify Coalition&amp;rsquo; wants better ways to track you It&amp;rsquo;s a real rogue&amp;rsquo;s gallery of corporations pushing for a single way to track us no matter what we do on or off the network.
+https://reclaimthenet.org/corporations-push-for-digital-id
+Shame on you Yubico for being part of this proposal. Why mortgage whatever good will you have to kneel at the feet of your corporate overlords?</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency, the Jews, and the Fundamental Question of Trust</title>
+      <link>https://www.federated.computer/blog/cryptocurrency-question-of-trust/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/cryptocurrency-question-of-trust/</guid>
+      <description>How Bitcoin addressed a problem that has haunted human affairs for 2.5 million years How does the decentralized Bitcoin system work?
+https://www.tabletmag.com/sections/news/articles/cryptocurrency-jews-question-benjamin-samuels
+How Bitcoin solved the trust issue that has plagued societies for millenia. Some precursors to the Diffie-Hellman key exchange are discussed and explained.</description>
+    </item>
+    
+    <item>
+      <title>CSAM Scanning in the EU</title>
+      <link>https://www.federated.computer/blog/automatic-csam-scanning-eu/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/automatic-csam-scanning-eu/</guid>
+      <description>Using the pretext of child protection to introduce mass surveillance This is still just a proposal.
+https://tutanota.com/blog/posts/eu-surveillance-csam/
+But the proposal would basically lead to all messages being read all the time. Get off the centralized services. Make it difficult.</description>
+    </item>
+    
+    <item>
+      <title>Does Signal Have a Back Door</title>
+      <link>https://www.federated.computer/blog/signal-has-a-back-door/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/signal-has-a-back-door/</guid>
+      <description>Backdoor proven? Further evidence Signal has a back door&amp;hellip;
+https://twitter.com/DylanLeClair_/status/1640378672359129088?s=20
+Repeat after us, centralized is no good.</description>
+    </item>
+    
+    <item>
+      <title>Future of Advertising and Information Services</title>
+      <link>https://www.federated.computer/blog/marshall-mcluhan-future-advertising-information-services/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/marshall-mcluhan-future-advertising-information-services/</guid>
+      <description>Marshall McLuhan lays it out in 1966 A wonderful look into the future, from the past.
+https://paleofuture.com/blog/2023/1/11/marshall-mcluhan-on-the-future-of-ads-and-the-internet
+One of the insights here is the idea that we enjoy being manipulated, being advertised to because the advertising itself is the beginning of the fulfillment of our desire for an object.</description>
+    </item>
+    
+    <item>
+      <title>GrapheneOS</title>
+      <link>https://www.federated.computer/blog/grapheneos/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/grapheneos/</guid>
+      <description>One of the main alternative Andoid distributions You can use a mobile device with lots less tracking than on offer from Google and Apple.
+https://grapheneos.org/
+Just remember, when you leave tracking prison, you leave behind the apps that have your addicted. OK?</description>
+    </item>
+    
+    <item>
+      <title>Home Server Bitcoin Node</title>
+      <link>https://www.federated.computer/blog/setup-home-server-bitcoin-node/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/setup-home-server-bitcoin-node/</guid>
+      <description>Caveat: liberating but lots of complexities You do need to run your own node at home. It&amp;rsquo;s the best for privacy and securty. But it can be complex, and, with the wrong turn, you can lose Bitcoin.
+https://www.expressvpn.com/blog/how-to-set-up-a-home-server-and-use-it-as-a-bitcoin-node/
+But don&amp;rsquo;t fear. Try it out. Get a feel for it. We need to learn to cook.</description>
+    </item>
+    
+    <item>
+      <title>Home Work is Corporate Surveillance Work</title>
+      <link>https://www.federated.computer/blog/working-from-home-surveillance/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/working-from-home-surveillance/</guid>
+      <description>The big man has access to all your waking minutes If the corporation can surveil employees while in the office (and we don&amp;rsquo;t like this, mind you, but so many have accepted it), what happens when the office is your private home?
+https://www.zerohedge.com/technology/working-home-now-means-letting-corporate-surveillance-your-daily-life
+Maybe the solution is not to carry/have two of everything?</description>
+    </item>
+    
+    <item>
+      <title>How to Stack Sats</title>
+      <link>https://www.federated.computer/blog/how-to-stack-sats/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/how-to-stack-sats/</guid>
+      <description>Anyone Can Earn Bitcoin Some great, creative ideas for how to earn and stack satoshis.
+https://www.stacksats.how/</description>
+    </item>
+    
+    <item>
+      <title>Individuals On Lists</title>
+      <link>https://www.federated.computer/blog/no-kyc-aml-lists/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/no-kyc-aml-lists/</guid>
+      <description>Digging into the KYC/AML issue You may already be on a list&amp;hellip;
+https://www.discreetlog.com/kyc/
+&amp;hellip;but you can start to disappear.</description>
+    </item>
+    
+    <item>
+      <title>Instagram Scraping</title>
+      <link>https://www.federated.computer/blog/what-can-others-learn-scraping-instagram/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/what-can-others-learn-scraping-instagram/</guid>
+      <description>What can others learn? Scraping social media services is wide-spread (here, Instagram) and highlights the data leaks exploited by many to find out much more about us.
+https://www.socialscrape.com/post/what-is-instagram-scraping
+&amp;ldquo;Basically anything you can get from a user&amp;rsquo;s profile can be scraped.&amp;rdquo; When combined with other information, a user dossier begins to emerge. D&amp;rsquo;oh!</description>
+    </item>
+    
+    <item>
+      <title>Lastpass Breach Impact on Bitcoin Wallets</title>
+      <link>https://www.federated.computer/blog/impact-of-lastpass-on-bitcoin-wallets/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/impact-of-lastpass-on-bitcoin-wallets/</guid>
+      <description>This person lost sats because of the Lastpass breach Can anyone spot how the magical hacker got in?
+https://twitter.com/Cryptopathic/status/1606416137771782151?s=20&amp;amp;t=glD3V7sn8VCOrCeheaWf8w
+A hint: &amp;ldquo;Having spoken to multiple professionals, it now seems far more likely that my encrypted vault was breached. However, at 100,100 PBKDF2 iterations, it is not realistic to brute force this. I think this situation goes far beyond what has been admitted.&amp;rdquo;
+That&amp;rsquo;s right, Lastpass may not have keep the data encrypted or sufficiently encrypted.</description>
+    </item>
+    
+    <item>
+      <title>Learn Bitcoin Interactively</title>
+      <link>https://www.federated.computer/blog/learn-bitcoin-interactively/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/learn-bitcoin-interactively/</guid>
+      <description>A tutorial to learn the technical side of bitcoin This neat interactive tutorial teaches you the technical overview of bitcoin.
+https://trybitcoin.satsie.dev/</description>
+    </item>
+    
+    <item>
+      <title>Let Your Boss Monitor Your Brain</title>
+      <link>https://www.federated.computer/blog/monitor-brain-activity/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/monitor-brain-activity/</guid>
+      <description>More on the path to treating humans like robots When we are monitored at work, we are treated like machines, not humans.
+https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/
+If this is part of your experience at work, get another job. It is hard, but being surveilled all the time has its impact on our self-worth.</description>
+    </item>
+    
+    <item>
+      <title>LineageOS</title>
+      <link>https://www.federated.computer/blog/lineageos/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lineageos/</guid>
+      <description>One of the main alternative Andoid distributions You can use a mobile device with lots less tracking than on offer from Google and Apple.
+https://lineageos.org/
+Just remember, when you leave tracking prison, you leave behind the apps that have your addicted. OK?</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Killing Custom Domains in Outlook.com</title>
+      <link>https://www.federated.computer/blog/microsoft-killing-custom-domains/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/microsoft-killing-custom-domains/</guid>
+      <description>No more individuality for you, slave You won&amp;rsquo;t be able to use custom domains after November, 2023.
+https://www.bigtechwire.com/2022/11/02/microsoft-is-killing-custom-domain-names-in-outlook-com/
+This is a head-scratcher, for sure. Why would Microsoft do this? Is Google next? It is hard to understand any real technical justification for the move. Ideas?</description>
+    </item>
+    
+    <item>
+      <title>Most Popular Password Manager Hacked</title>
+      <link>https://www.federated.computer/blog/lastpass-hacked/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/lastpass-hacked/</guid>
+      <description>Lastpass Hacked, Again Lastpass is the world&amp;rsquo;s most popular password manager&amp;hellip;with hackers, too.
+https://www.bloomberg.com/news/articles/2022-08-25/the-world-s-most-popular-password-manager-says-it-was-hacked
+Solution, host your own password manager. It is possible. Unless you like giving the hackers your passwords&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mutt</title>
+      <link>https://www.federated.computer/blog/mutt/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/mutt/</guid>
+      <description>The email client for discerning email users We have instructions on how to use Mutt with a Federated Core.
+http://www.mutt.org/
+Install it on a server your own, and, with the right access controls, you have secure access to your email from everywhere.</description>
+    </item>
+    
+    <item>
+      <title>No Google for Dutch Schools</title>
+      <link>https://www.federated.computer/blog/dutch-schools-must-stop-using-google/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dutch-schools-must-stop-using-google/</guid>
+      <description>Dutch Personal Data Authority raised concerns about Google&amp;rsquo;s GDPR compliance Google donesn&amp;rsquo;t carry. They&amp;rsquo;ll just pay the fines.
+https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/
+And they believe we &amp;ldquo;need&amp;rdquo; them.</description>
+    </item>
+    
+    <item>
+      <title>No KYC Bitcoin</title>
+      <link>https://www.federated.computer/blog/acquire-non-kyc-bitcoin/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/acquire-non-kyc-bitcoin/</guid>
+      <description>15 methods for acquiring non-kyc bitcoin If you want to acquire bitcoin without an intermediary tracking your identity, here are fifteen options&amp;hellip;
+https://sovrnbitcoiner.com/15-methods-to-aquire-non-kyc-bitcoin/
+What have we to hide? Everything! :blush:</description>
+    </item>
+    
+    <item>
+      <title>Oh Signal!</title>
+      <link>https://www.federated.computer/blog/rant-about-signal/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/rant-about-signal/</guid>
+      <description>You were the chosen one&amp;hellip; Someone else isn&amp;rsquo;t so impressed with the direction Signal is going these days&amp;hellip;
+https://media.ccc.de/v/mch2022-196-signal-you-were-the-chosen-one-
+It&amp;rsquo;s a real head-scratcher when a &amp;ldquo;security service&amp;rdquo; wants to start measuring &amp;ldquo;engagement&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Opendesktop</title>
+      <link>https://www.federated.computer/blog/opendesktop/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/opendesktop/</guid>
+      <description>Introduction to the Opendesktop Project This is a centralized service based, in part, on Nextcloud and other open-source projects.
+https://www.opendesktop.org/
+OpenDesktop.org is a website that provides a platform for open-source software developers and users to share and download various applications, themes, icons, wallpapers, and other digital assets. The website is part of the OpenDesktop Network, which also includes other sites such as KDE-Apps.org, GNOME-Look.org, and XFCE-Look.org.
+OpenDesktop.org is a community-driven platform, where users can contribute their own software and content, as well as interact with other members of the community through forums, blogs, and messaging.</description>
+    </item>
+    
+    <item>
+      <title>Orange Pilled Veteran</title>
+      <link>https://www.federated.computer/blog/orange-pilled-veteran/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/orange-pilled-veteran/</guid>
+      <description>Working in the Bitcoin industry Offered to suggest working in the self-sovereign industry should be just as rewarding.
+https://www.zerohedge.com/crypto/one-veterans-story-orange-pilled-green-beret
+We are always hiring at Federated. :smile:</description>
+    </item>
+    
+    <item>
+      <title>Pine64 Project</title>
+      <link>https://www.federated.computer/blog/pine-64-project/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/pine-64-project/</guid>
+      <description>Open source hardware and software for desktop, tablet, mobile Pine64 makes some very interesting kit&amp;hellip;
+https://www.pine64.org/
+The number of enthusiasts continues to grow month after month.</description>
+    </item>
+    
+    <item>
+      <title>Poste.io</title>
+      <link>https://www.federated.computer/blog/poste-io/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/poste-io/</guid>
+      <description>A nice self-hosted email server A nice project for self-hosted email.
+https://poste.io/</description>
+    </item>
+    
+    <item>
+      <title>Private, Secure, Uncensorable Messaging Over LORA</title>
+      <link>https://www.federated.computer/blog/private-secure-lora-messaging/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/private-secure-lora-messaging/</guid>
+      <description>How to use the LORA protocol to set up a mesh network for communications The LORA protocol is interesting. Very intersting. There&amp;rsquo;s a shitcoin project to try to extend LORA across the country. Great idea, bad execution.
+https://unsigned.io/private-messaging-over-lora/
+What would it take to set this up in your own neighborhood or community? Reach out to us if you&amp;rsquo;d like to do or know more.</description>
+    </item>
+    
+    <item>
+      <title>Proof the NSA Spies on Americans</title>
+      <link>https://www.federated.computer/blog/nsa-collects-data/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/nsa-collects-data/</guid>
+      <description>Even when it is against the law. Who cars? Do you? Does anyone care when the NSA breaks US law to spy on Americans in the United States? No, not really. Nothing is done about it. This is fiat surveillance at its finest. High handed. Passed off as &amp;ldquo;protecting&amp;rdquo; Americans.
+https://threadreaderapp.com/thread/1587446686393122816.html
+What can be done about it? First, make it much harder by decentralizing everything.</description>
+    </item>
+    
+    <item>
+      <title>QubesOS</title>
+      <link>https://www.federated.computer/blog/qubes/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/qubes/</guid>
+      <description>A reasonably secure operating system Qubes is an operating system where most of the userland work happens in sandboxed virtual machines.
+https://www.qubes-os.org/intro/
+With the right hardware resources, you can use multiple &amp;ldquo;insecure&amp;rdquo; operating systems at the same time.</description>
+    </item>
+    
+    <item>
+      <title>Reclaiming Mobile Privacy with GrapheneOS</title>
+      <link>https://www.federated.computer/blog/reclaiming-mobile-privacy-grapheneos/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/reclaiming-mobile-privacy-grapheneos/</guid>
+      <description>It&amp;rsquo;s true. It can be done! This is the android distribution many of us at Federated use.
+https://マリウス.com/reclaiming-mobile-privacy-with-grapheneos/
+&amp;ldquo;The shiny devices we carry around in our pockets have increasingly become malicious tools of governments, law enforcement and even for-profit corporations.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Router Security</title>
+      <link>https://www.federated.computer/blog/router-security-howto/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/router-security-howto/</guid>
+      <description>We all have one of these things in our home&amp;hellip; We all have a (wifi) router in our homes if we are typically connected to the internet. Here&amp;rsquo;s some advice how to configure the device in the most secure way possible.
+https://routersecurity.org/#StartHere
+Explore the site for even more great stuff!</description>
+    </item>
+    
+    <item>
+      <title>Safing Firewall</title>
+      <link>https://www.federated.computer/blog/safing-free-open-source-firewall/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/safing-free-open-source-firewall/</guid>
+      <description>Free and Open Source A nice, easy-to-undestand firewall for Windows and Linux
+https://link
+Includes a VPN with the paid tier.</description>
+    </item>
+    
+    <item>
+      <title>Scrub Yourself From The Internet</title>
+      <link>https://www.federated.computer/blog/scrub-yourself-from-the-internet/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/scrub-yourself-from-the-internet/</guid>
+      <description>Is it even possible? The long journey begins with a single step&amp;hellip;
+https://www.msn.com/en-us/news/technology/how-to-scrub-yourself-from-the-internet-the-best-that-you-can/ar-AAYOXe0
+Internet &amp;ldquo;knowledge&amp;rdquo; of you is like weight. You&amp;rsquo;re either adding or you&amp;rsquo;re losing.</description>
+    </item>
+    
+    <item>
+      <title>Self Hosted Podcast</title>
+      <link>https://www.federated.computer/blog/self-hosted-podcast/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/self-hosted-podcast/</guid>
+      <description>A podcast for self-hosters Even if you don&amp;rsquo;t practice self-hosting using Federated, please practice self-hosting. These guys might be able to provide some guidance!
+https://selfhosted.show/
+From their description: &amp;ldquo;Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show to share lessons and take you along the journey&amp;hellip;&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Self Hosted SaaS Tools</title>
+      <link>https://www.federated.computer/blog/self-hosted-saas-tools/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/self-hosted-saas-tools/</guid>
+      <description>hSome alternatives to the centralizers Another useful list and assessment.
+https://tedium.co/2023/03/04/self-hosted-saas-app-alternatives/
+Too bad the site is littered with ads for&amp;hellip;SaaS companies. :open_mouth:</description>
+    </item>
+    
+    <item>
+      <title>SHA256 Encryption Explained</title>
+      <link>https://www.federated.computer/blog/sha256-algorithm-explained/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/sha256-algorithm-explained/</guid>
+      <description>Want to know how the encryption standard works? Wonderful website. More like a &amp;ldquo;lab&amp;rdquo; than a textual explainer. Understand through doing.
+https://sha256algorithm.com/</description>
+    </item>
+    
+    <item>
+      <title>Smart Phones Fragment Attention Span</title>
+      <link>https://www.federated.computer/blog/smart-phones-fragment-attention-span/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/smart-phones-fragment-attention-span/</guid>
+      <description>Why even care about an attention span? Without an attention span, human intelligence is not capable of producing its magic.
+https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/
+It is funny when the &amp;ldquo;solution&amp;rdquo; is to use the smart phone to help us with &amp;ldquo;focus&amp;rdquo;. :satisfied:</description>
+    </item>
+    
+    <item>
+      <title>Surveillance State Making a List</title>
+      <link>https://www.federated.computer/blog/surveillance-state-making-a-list/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/surveillance-state-making-a-list/</guid>
+      <description>This Christmas-themed article is a big drag&amp;hellip; All the various ways governments and corporations are working hard to watch our every move.
+https://www.zerohedge.com/political/youd-better-watch-out-surveillance-state-making-list-and-youre-it
+The track us on the internet, the mobile phone, our DNA, our face, our spending and consumer activities, public movements&amp;hellip;
+We can cloak. It does require a commitment. It can be done.</description>
+    </item>
+    
+    <item>
+      <title>The Fediverse is Inefficient, That&#39;s OK</title>
+      <link>https://www.federated.computer/blog/fediverse-is-inefficient-thats-ok/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/fediverse-is-inefficient-thats-ok/</guid>
+      <description>Decentralization comes with some slow downs that avoid the dystopian pile up Why having everything move/improve at the speed of whim may not be the best idea.
+https://berk.es/2022/11/08/fediverse-inefficiencies/
+The example provided is Mastodon.</description>
+    </item>
+    
+    <item>
+      <title>The Story of Your Enslavement</title>
+      <link>https://www.federated.computer/blog/the-story-of-your-enslavement/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/the-story-of-your-enslavement/</guid>
+      <description>A film essay about the ways and forms of our enslavement A thought-provoking film essay about the ways and means of our quotidian enslavement in the modern world.
+https://youtu.be/eq3jjzI8Gdo</description>
+    </item>
+    
+    <item>
+      <title>TorBox 0.4.0 Released</title>
+      <link>https://www.federated.computer/blog/torbox-release-040/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/torbox-release-040/</guid>
+      <description>Creates a WiFi hotspot routing over Tor using Raspberry Pi When you want Tor-routed services for all your wireless/WiFi traffic.
+https://www.torbox.ch/?p=2027
+You can even use this in hotels, for example, even if there is a captive portal, when traveling.</description>
+    </item>
+    
+    <item>
+      <title>Tracking American Cash Transactions</title>
+      <link>https://www.federated.computer/blog/tracking-every-cash-transaction/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tracking-every-cash-transaction/</guid>
+      <description>Wall Street Journal reports program tracks transactions above $500 Homeland Security is using a tool to track cash transactions above $500.
+https://www.rt.com/news/570100-americans-money-transfers-spying/
+As Senator Wyden&amp;rsquo;s (D-Oregon) investigation showed, this is being done without regard for established legal protections.</description>
+    </item>
+    
+    <item>
+      <title>US Military Captures 93% of Internet</title>
+      <link>https://www.federated.computer/blog/miliatary-captures-internet/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/miliatary-captures-internet/</guid>
+      <description>Senator Wyden suggests the military is up to no good They have everything.
+https://www.rt.com/news/563433-augury-military-internet-tracking-wyden/
+Of course, they are breaching privacy for the sake of keeping us &amp;ldquo;safe&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Why Decentralization Matters</title>
+      <link>https://www.federated.computer/blog/why-decentralization-matters/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/why-decentralization-matters/</guid>
+      <description>From the perspective of a notorious shitcoiner&amp;hellip; It&amp;rsquo;s funny how he&amp;rsquo;s right on &amp;ldquo;decentralization&amp;rdquo; but every one of his implementations was backed by some (evil) centralization scheme. We&amp;rsquo;re not hear to prove that, just a bold assertion. But he&amp;rsquo;s right about decentralization.
+https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e
+But how could &amp;ldquo;decentralization&amp;rdquo; ever be monetized? Value for value. Give people want they want and need and they will pay.</description>
+    </item>
+    
+    <item>
+      <title>Will Your Service/Product Provider Cancel You?</title>
+      <link>https://www.federated.computer/blog/company-risk-assessment/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/company-risk-assessment/</guid>
+      <description>One listing of companies and a risk assessment&amp;hellip; The company may not like you and show you the door&amp;hellip;
+https://1792exchange.com/spotlightreports/</description>
+    </item>
+    
+    <item>
+      <title>Zero Data App</title>
+      <link>https://www.federated.computer/blog/zero-data-app/</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/zero-data-app/</guid>
+      <description>Keeping data under your control A nice exposition of the idea that even your apps shouldn&amp;rsquo;t be barriers to your data.
+https://0data.app/
+For the most part, this means using open data protocols and formats. Not even open-source applications do this today. But this website introduces us to apps that do.</description>
+    </item>
+    
+    <item>
+      <title>Been Pwned?</title>
+      <link>https://www.federated.computer/blog/have-i-been-pawned/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/have-i-been-pawned/</guid>
+      <description>One of the delights of using centralized services&amp;hellip; It&amp;rsquo;s really just a matter of time before your centralized service leaks your credentials or gets hacked. The honeypot is too valuable for the hackers to ignore.
+https://haveibeenpwned.com/
+Check your status here.</description>
+    </item>
+    
+    <item>
+      <title>Protonmail Bridge Problems</title>
+      <link>https://www.federated.computer/blog/protonmail-bridge-problems/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/protonmail-bridge-problems/</guid>
+      <description>Message UIDs are not stable When the IDs for messages aren&amp;rsquo;t stable, whacky things happen.
+https://github.com/ProtonMail/proton-bridge/issues/220
+Note: this is an older note, may have been fixed. Please check the repository.</description>
+    </item>
+    
+    <item>
+      <title>iCloud for Windows Downloads Other People&#39;s Photos?</title>
+      <link>https://www.federated.computer/blog/icloud-for-windows-problems/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/icloud-for-windows-problems/</guid>
+      <description>A Report of Strange Behavior by iCloud for Windows The perils of using centralized storage solutions from a company not known for building great services.
+https://forums.macrumors.com/threads/icloud-for-windows-corrupting-videos-downloading-other-peoples-photos.2370666/
+According to a thread on the MacRumors forums, some users of iCloud for Windows have reported experiencing issues with the service, including corrupted videos and downloading other people&amp;rsquo;s photos.
+The thread includes reports from users who have experienced issues with iCloud for Windows, such as videos that are downloaded from iCloud being corrupted and unplayable, and photos that belong to other iCloud users being downloaded to their own devices.</description>
+    </item>
+    
+    <item>
+      <title>Rise of User-Hostile Software</title>
+      <link>https://www.federated.computer/blog/rise-of-user-hostile-software/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/rise-of-user-hostile-software/</guid>
+      <description>Caring more about the developer than about the user This may be a perenial complaint, but it does seem as if the state of software today is more geared to the company or the developer rather than the user.
+https://den.dev/blog/user-hostile-software/
+Open source software fixes this.</description>
+    </item>
+    
+    <item>
+      <title>Why Self-Hosting is Important</title>
+      <link>https://www.federated.computer/blog/why-self-hosting-is-important/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/why-self-hosting-is-important/</guid>
+      <description>Self-hosting is about freedom Some observations and experiences with regards self-hosting.
+https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html
+If you&amp;rsquo;re reading this blog, you probably already know self-hosting is important. It is vital to keeping the internet and our data free.</description>
+    </item>
+    
+    <item>
+      <title>Verified Onion Sites</title>
+      <link>https://www.federated.computer/blog/verified-onion-sites/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/verified-onion-sites/</guid>
+      <description>An ever growing list of bitcoin and privacy related onion sites Fire up your Tor browser and browse&amp;hellip;
+https://sovrnbitcoiner.com/verified-tor-onion-sites/
+A great list of some sites you want to visit using Tor.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Email</title>
+      <link>https://www.federated.computer/blog/understanding-email/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/understanding-email/</guid>
+      <description>Email explained from first principles Everything you ever wanted to know about how email works&amp;hellip;
+https://explained-from-first-principles.com/email/
+&amp;hellip;because you&amp;rsquo;re going to want to know how it can be improved, protected, best served.</description>
+    </item>
+    
+    <item>
+      <title>Tor-Only Bitcoin and Lightning Guide</title>
+      <link>https://www.federated.computer/blog/tor-only-bitcoin-lightning-guide/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/tor-only-bitcoin-lightning-guide/</guid>
+      <description>How to use Bitcoin and Lightning on the Tor network We are big fans of Bitcoin and the Lightning network at Federated and recommend using it over Tor. But it can be technically intimidating.
+https://blog.lopp.net/tor-only-bitcoin-lightning-guide/
+The purpose of Bitcoin and Lightning is to fully decentralize money. The purpose of Tor is to share as little information on the public network as possible. Together they can be very effective.</description>
+    </item>
+    
+    <item>
+      <title>Screw It</title>
+      <link>https://www.federated.computer/blog/screw-it-ill-host-it-myself/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/screw-it-ill-host-it-myself/</guid>
+      <description>I&amp;rsquo;ll host it myself As more and more folks have bad experiences with the centralizers, more and more begin to wonder what it would mean to do it all themselves.
+https://www.markozivanovic.com/screw-it-ill-host-it-myself/
+That&amp;rsquo;s why Federated Core exists. To make it easier. :blush:</description>
+    </item>
+    
+    <item>
+      <title>U.S. Indicts Encrypted Phone CEO</title>
+      <link>https://www.federated.computer/blog/sky-secure-global-indictment/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/sky-secure-global-indictment/</guid>
+      <description>Claims Sky Global provided service used by criminal networks File this is the &amp;ldquo;is encryption legal to sell&amp;rdquo; section.
+https://www.vice.com/en/article/4adzdj/sky-secure-global-indictment
+The US Department of Justice claims they filed the indictment because the firm expressly catered to those committing criminal acts. But actions like this raise concerns about the claims of authorities that encryption, in and of itself, is a prohibited &amp;ldquo;tool&amp;rdquo; for sale.</description>
+    </item>
+    
+    <item>
+      <title>Your Financial Information Sent to Facebook</title>
+      <link>https://www.federated.computer/blog/financial-information-facebook/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/financial-information-facebook/</guid>
+      <description>Tax Filing Services Sending Financial Information to Facebook As if Facebook didn&amp;rsquo;t know enough about us already&amp;hellip;
+https://www.zerohedge.com/technology/appalling-major-tax-filing-services-have-been-sending-financial-information-facebook
+According to an article published by Zero Hedge, some major tax filing services in the US have been sending users&#39; financial information, including their social security numbers and income details, to Facebook through tracking tools on their websites.
+The article states that tax filing services such as TurboTax, H&amp;amp;R Block, and TaxAct have been using tracking tools from Facebook and other third-party companies on their websites, which allow them to collect data on users&#39; browsing behavior and interests.</description>
+    </item>
+    
+    <item>
+      <title>I Want a Computer that I Own</title>
+      <link>https://www.federated.computer/blog/computer-that-i-own/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/computer-that-i-own/</guid>
+      <description>Can I Own My Computer? These days, is it possible to own your computer and the data that flows through it?
+http://misc-stuff.terraaeon.com/articles/computer-i-own.html
+Self-ownership means &amp;ldquo;anonymity&amp;rdquo; and to &amp;ldquo;communicate securly with anyone on the planet without being observed by a third party&amp;rdquo;. Of course, there are a number of parts to this puzzle. The hardware, the client software and operating system, the server hardware, software and operating system, and then the network and the means of utilizing that network.</description>
+    </item>
+    
+    <item>
+      <title>Dropbox is Watching Your Activity</title>
+      <link>https://www.federated.computer/blog/dropbox-is-watching-your-activity/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/dropbox-is-watching-your-activity/</guid>
+      <description>Why All the Telemetry? Dropbox sure does collect lots of information&amp;hellip;
+Why So Much Telemetry?</description>
+    </item>
+    
+    <item>
+      <title>Online Identity Owned by Email Provider</title>
+      <link>https://www.federated.computer/blog/your-identity-owned-by-email-provider/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/your-identity-owned-by-email-provider/</guid>
+      <description>Email is a great way to understand everything about a person If you don&amp;rsquo;t own or run your email (&amp;ldquo;not your keys, not your email&amp;rdquo;), then your on-line identify is owned by your email provider.
+https://www.ctrl.blog/entry/email-identity-provider.html
+This is even true for Proton, kids. Centralization sucks.</description>
+    </item>
+    
+    <item>
+      <title>NSA Worked to Track Bitcoin Users</title>
+      <link>https://www.federated.computer/blog/nsa-worked-to-track-bitcoin-users/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/nsa-worked-to-track-bitcoin-users/</guid>
+      <description>NSA Seeks to Track Bitcoin Users In a story from the annals of the obvious&amp;hellip; But why? They might as well haul in the whole village looking for the one villager who committed the alledged crime.
+https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/
+The National Security Agency (NSA) worked to track down users of the cryptocurrency Bitcoin by analyzing internet traffic and other data sources, according to documents leaked by former NSA contractor Edward Snowden.
+The documents suggest that the NSA was interested in identifying Bitcoin users who may be engaged in illegal activities such as money laundering and drug trafficking.</description>
+    </item>
+    
+    <item>
+      <title>Outlook.com is Silently Discarding Email Messages</title>
+      <link>https://www.federated.computer/blog/outlook-com-discarding-messages/</link>
+      <pubDate>Sun, 11 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/outlook-com-discarding-messages/</guid>
+      <description>Microsoft knows what is best for you Outlook.com and Hotmail.com won&amp;rsquo;t receive your email message unless they want to&amp;hellip;
+https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/
+Microsoft continues to break the protocol. One solution? Don&amp;rsquo;t email folks with outlook.com and hotmail.com email addresses. Tell them Microsoft has decided what is best.</description>
+    </item>
+    
+    <item>
+      <title>Google Has My Email</title>
+      <link>https://www.federated.computer/blog/google-has-most-of-my-email/</link>
+      <pubDate>Sun, 11 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/google-has-most-of-my-email/</guid>
+      <description>Dealing with the problem that is Gmail Even if you run your own email server (or use a service like Federated Core), you will likely be interacting with those using Gmail.
+https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours
+It won&amp;rsquo;t happen quickly or over-night, but we must choke out Gmail and other centralized emails services (looking at your outlook.com) if we are to reclaim email as a &amp;ldquo;free&amp;rdquo; as in &amp;ldquo;freedom&amp;rdquo; service.</description>
+    </item>
+    
+    <item>
+      <title>The Original Cypherpunk&#39;s Manifesto</title>
+      <link>https://www.federated.computer/blog/cypherpunks-manifesto/</link>
+      <pubDate>Tue, 09 Mar 1993 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/blog/cypherpunks-manifesto/</guid>
+      <description>It starts with privacy The basis for everything we do at Federated Computer.
+https://what.cd/
+Privacy is the conerstone and that is built on anonymous systems.</description>
+    </item>
+    
+    <item>
+      <title>Careers</title>
+      <link>https://www.federated.computer/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/careers/</guid>
+      <description>Federated Computer is working to build the next version of the &amp;ldquo;cloud&amp;rdquo; but in a &amp;ldquo;point-to-point&amp;rdquo; or &amp;ldquo;federated&amp;rdquo; way. We seek to accomplish our goals using a mixture of open-source &amp;ldquo;Web2&amp;rdquo; tools, and new tools for money and commerce. We are currently hiring for the following positions:
+Systems Engineers
+You know everything about everything, everywhere. You understand Linux, LDAP, OAuth, Nostr, DNS, networking in general. You are an everything-digital-mechanic. You have worked in/on open-source technologies for a long time.</description>
+    </item>
+    
+    <item>
+      <title>Comparison</title>
+      <link>https://www.federated.computer/comparison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/comparison/</guid>
+      <description>There are some amazing offerings available for individuals, teams, and small businesses today. The trouble is, kinda like cable and entertainment pricing, all the subscriptions really start to add up, and they don&amp;rsquo;t really work well together.
+Federated Core Compared to the Competition We&amp;rsquo;ve done the math and we come up with some significant saving for Federated Computer Customers.
+Federated Core: $39/month. Competition: $393.65/month. (Assuming five users. Here&amp;rsquo;s a handy reference list to understand how Federated Core stacks up to the competition.</description>
+    </item>
+    
+    <item>
+      <title>Developers</title>
+      <link>https://www.federated.computer/developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/developers/</guid>
+      <description>Would you like to bring your open-source application/service to the 10s of thousands of Federated Customers using our Federated Core platform. Please reach out to us so that we can talk about our plans and how we might collaborate.
+Developer Relations: info@federated.computer.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://www.federated.computer/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/documentation/</guid>
+      <description>Federated Computer documentation can be found at this link.
+Federated Computer offers an open-source documentation project where customers and collaborators can work with Federated Computer folks to document how to use the various software components best for work, team collaboration, with desktop and mobile devices, etc.
+This documentation was written for the end-user. We will be publishing a further set of documentation once we open-source our stack and you can install Federated Computer on your own hardward or cloud server.</description>
+    </item>
+    
+    <item>
+      <title>Federated Core</title>
+      <link>https://www.federated.computer/description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/description/</guid>
+      <description>Federated Core is a self-hosted server, you don&amp;rsquo;t share resources with other Customers, with 100% privacy, included backups, updates, and uptime reliability.
+What&amp;rsquo;s Included For $39/month (pay in USD or BTC) you get all of the following (with description of what is provided):
+ Single-sign-on User Management to manage users and access in one place. Mail with the latest spam and abuse filters built in. Nextcloud for groupware, files, calendar, contacts, project management, bookmarks, tasks, photos and much more.</description>
+    </item>
+    
+    <item>
+      <title>Merchandise</title>
+      <link>https://www.federated.computer/merchandise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/merchandise/</guid>
+      <description>Want to live the Federated lifestyle? Then you&amp;rsquo;ll need a &amp;ldquo;founder&amp;rsquo;s 2022 belt buckle&amp;rdquo;. These buckles are limited edition, made to order, and will tell everyone in the room &amp;ldquo;Hey, I think &amp;lsquo;centralization sucks!&#39;&amp;rdquo;. The belt buckle is four and a half inches across, made from silver, studded with costume cubic zarconia &amp;ldquo;jewels&amp;rdquo; and on-of-a-kind. These won&amp;rsquo;t last long. US$120.
+
+Please click on the Buckle up! link or the image to buy.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud and Email Hosting</title>
+      <link>https://www.federated.computer/nextcloud_and_email_together/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/nextcloud_and_email_together/</guid>
+      <description>Self-hosted email with Nextcloud? Look no further! Federated Computer has you covered. If you&amp;rsquo;ve got a web domain for your business or personal use and don&amp;rsquo;t want to use Google or Microsoft for email, the options can be daunting and expensive. We know. We started using Nextcloud internally, then realized most hosting services for email are offered separately. Go figure!
+Not only did we want Nextcloud and email bundled but we also wanted it to be more economical than Google ($15 per user per month!</description>
+    </item>
+    
+    <item>
+      <title>Partners and Affiliates</title>
+      <link>https://www.federated.computer/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/partners/</guid>
+      <description>If you would like to sell our promote Federated services/software to your audience, we are offering very compelling opportunities for your to earn significant monthly recurring revenue.
+Please contact Barry Goers by email: barry@federated.computer.</description>
+    </item>
+    
+    <item>
+      <title>Privacy &amp; Policy</title>
+      <link>https://www.federated.computer/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/privacy/</guid>
+      <description>It is Federated Computer&amp;rsquo;s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to any Federated Computer website (hereinafter, “us”, “we”, or “federated.computer”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties.</description>
+    </item>
+    
+    <item>
+      <title>Projects We Love</title>
+      <link>https://www.federated.computer/projectswelove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/projectswelove/</guid>
+      <description>We think the following projects deservce your attention. They are working to bring sovereignty to individuals and teams worldwide.
+Self Hosting These folks are building tools for digital sovereignty alongside our efforts here at Federated:
+Umbrel
+A slick, well package project for installing and running tons of great open-source projects. They even have their own cool hardware. A great solution, if we might opine, for running a bitcoin/lightning node.
+System 9</description>
+    </item>
+    
+    <item>
+      <title>Replace Slack With Matrix</title>
+      <link>https://www.federated.computer/replace_slack_with_matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/replace_slack_with_matrix/</guid>
+      <description>Slack? $72 per month for a team of 10 people! Slack is a centralized service and locks you in to a closed system.
+You could instead own your company&amp;rsquo;s data and run it 100% privately on your own virtual machine on Matrix with Federated Computer for only $39 per month.
+Leave the Slack silo behind and get:
+ Unlimited private and public rooms Fully encrypted Single-sign on (SSO) Element is the free client-side app that works with Matrix available for Windows, Mac, Linux desktop and Android/iOS Video and voice chat  Matrix is part of Federated Core which also includes email hosting, VPN (Wireguard), Nextcloud, Baserow (Airtable clone), and more!</description>
+    </item>
+    
+    <item>
+      <title>Sign up</title>
+      <link>https://www.federated.computer/purchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/purchase/</guid>
+      <description>Five Options (click on one of the links below to sign up) All plans come with full Federated Core, all services, unlimited users, human support, backups/restores, and our award-winning Federated support.
+We offer (5) ways to buy Federated Core (either with fiat or BTC). We don&amp;rsquo;t charge you (excluding BTC) until you are set-up and happy.
+You&amp;rsquo;ll received a &amp;ldquo;temporary&amp;rdquo; domain to test, copy over data, emails, photos, everything, before you switch over to your &amp;ldquo;real&amp;rdquo; domain.</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://www.federated.computer/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/support/</guid>
+      <description>We never want to leaving you searching a website, fumbling around Reddit, or throwing questions into the dark hole of Telegram looking for an answer or solution. The Customer is the most important person in the Federated galaxy, so we offer you a number of ways to get the support you need!
+Support Options We&amp;rsquo;ve got lots of ways we can stay in touch and get all the wrinkles, questions, comments ironed out and answered.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://www.federated.computer/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.federated.computer/team/</guid>
+      <description>David Young: wow! Photoshop can make anyone appear thin and pant-suited.
+Barry Goers: professional hockey player, still a player. Will biz dev you until you giggle.
+Blake Burris we financed this ***ing company using that gold chain as collateral!
+Derek Crudgington (front row) the lifter in the bunch. I wonder what he sees, ladies?
+(c) whoever, whenever, whatever.</description>
+    </item>
+    
+  </channel>
+</rss>

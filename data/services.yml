@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Federated includes Human Support and full Backups. The benefits of self-hosting without the day-to-day high-stakes drudgery.
+services:
+  - icon: ti-settings
+    title: Support from People
+    description: You don't have to become an IT professional to benefit. The people who built global cloud computing operations watch over your private installation.
+
+  - icon: ti-check-box
+    title: Everything You Need
+    description: All the software you need for you and your team to be successful. You'll pay 10X for this breadth of software solutions anywhere else.
+
+  - icon: ti-key
+    title: 100% Private
+    description: Federated doesn't scan your data to sell your data to advertisers. In fact, even though we support your software, we can't see your data.

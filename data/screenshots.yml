@@ -1,0 +1,12 @@
+---
+enable: true
+title: Built on the best open-source software available today...
+description: Federated Core brings together best-in-class software, fully integrated, single-sign-on, human support, for the amazing price of $39 a month for your entire team.
+
+images:
+  - url: images/screenshots/slider1.png
+  - url: images/screenshots/slider2.png
+  - url: images/screenshots/slider3.png
+  - url: images/screenshots/slider4.png
+  - url: images/screenshots/slider5.png
+  - url: images/screenshots/slider3.png

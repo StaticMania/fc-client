@@ -1,0 +1,19 @@
+---
+enable: true
+title: Can I really run my team/business on Federated?
+description: Yes. In fact, this website is running on a $39/month Federated Core using the Gitea to Caddy website publishing tool. We run all of Federated Computer on a Core. You can too! You too can be free from surveillance, exorbitant costs, lack of flexibility.
+faqItem:
+  - question: How much does Federated cost?
+    answer: $39 a month, for as many team members as you want. Everything is included. Backups. Human support. Upgrades. Simple. If you need more storage, we offer that for $0.01 per gigabyte per month. Storage is shared among all your team. We do offer discounts for annual, supporter, and lifetime plans. And we are eager to work with you to find a way to ensure Federated Core fits your budget. Please, get in touch.
+    dataTarget: One
+    show: show
+
+  - question: What happens if I need help?
+    answer: This is the best part. We are humans helping humans. There are no AI chat robots frustrating you when something goes wrong. We offer human support and human solutions. Pick up the phone and call us at 888-Call-Fed or send us an email to support@federated.computer. Even if you're not currently a paying customer, we want to speak with you.
+    dataTarget: Two
+    show: 
+    
+  - question: Is this thing really private? 
+    answer: Yes. You own your keys. We don't. We back up your Federated Core (it's encrypted), and we can fix and update the software, but we don't have access to your data, and don't really care about it. In fact, we don't want to "know our customer" unless you're friendly and would like to chew the fat. This said, we do plan to offer a way for you to install Federated products on your own hardware in the future.
+    dataTarget: Three
+    show: 
