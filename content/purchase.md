@@ -1,58 +1,6 @@
 ---
 title: "Sign up"
 description: "Let's get you going with Federated Core!"
-table: true
-tableHead:  
-  - Federated Core
-  - Monthly
-  - Annual
-  - Two Year
-  - LifeTime
-tableBody:  
-  - column:
-    -
-    - $39
-    - $390
-    - $624
-    - $1101
-    
-  - button:
-    -
-    - https://ee620c.myshopify.com/cart/45448203338046:1?channel=buy_button
-    - https://ee620c.myshopify.com/cart/45448287813950:1?channel=buy_button
-    - https://ee620c.myshopify.com/cart/45448301281598:1?channel=buy_button
-    - https://ee620c.myshopify.com/cart/45448304558398:1?channel=buy_button
-    
-  - column:
-    - Software Included
-    - Nextcloud, Jitsi,  Matrix, Listmonk,  Bitwarden, VPN,  SSO, Caddy,  Gitea, Baserow
-    - Same as Monthly
-    - Same as Monthly
-    - Same as Monthly
-    
-  - column:
-    - Users 
-    - Unlimited 
-    - Unlimited 
-    - Unlimited 
-    - Unlimited 
-    
-  - column:
-    - Backups  
-    - Included
-    - Included
-    - Included
-    - Included
-  
-  - column:
-    - Human Support  
-    - With a smile
-    - With a smile
-    - With a smile
-    - With a smile
-    
-  
-    
 ---
 
 ### Five Options (click on one of the links below to sign up)
@@ -94,16 +42,3 @@ When you sign up for Federated Core, we give you a temporary domain so that you 
 #### Thank You
 
 We appreciate your support of Federated Computer. Welcome to the family.
-
-
-
-{{< table table_class="table table-light table-striped table-bordered" thead_class="table-dark" >}}
-| **Federated Core** | **Monthly**         | **Annual**      | **Two-Year**    | **Lifetime**  |       
-|--------------------|------------------|-----------------|-----------------|-----------------|
-|                     | $39                   |       $390      |       $624      |      $1101      |
-|                    | [Buy Now](https://ee620c.myshopify.com/cart/45448304558398:1?channel=buy_button) | [Buy Now](https://ee620c.myshopify.com/cart/45448287813950:1?channel=buy_button)        | [Buy Now](https://ee620c.myshopify.com/cart/45448301281598:1?channel=buy_button)        | [Buy Now](https://ee620c.myshopify.com/cart/45448304558398:1?channel=buy_button)         |
-| Software Included  | Nextcloud, Jitsi,  Matrix, Listmonk,  Bitwarden, VPN,  SSO, Caddy,  Gitea, Baserow | Same as Monthly       | Same as Monthly       | Same as Monthly          |
-| Users              | Unlimited             | Unlimited       | Unlimited       | Unlimited       |
-| Backups            | Included              | Included        | Included        | Included        |
-| Human Support      | With a smile           | With a smile    | With a smile    | With a smile    |
-{{< /table >}}
